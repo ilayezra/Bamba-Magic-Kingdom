@@ -1,0 +1,94 @@
+﻿<dictionary>
+	<NEW_PLAYER_NAME_EXISTING>שם המשתמש תפוס, בחר שם אחר</NEW_PLAYER_NAME_EXISTING>
+	<NEW_PLAYER_MIN_NAME>על שם המשתמש להיות לפחות 3 תווים</NEW_PLAYER_MIN_NAME>
+	<NEW_PLAYER_MIN_PASS>על הסיסמא להיות לפחות 3 תווים</NEW_PLAYER_MIN_PASS>
+	<NEW_PLAYER_NO_IDENTIC_PASS>על שתי הסיסמאות להיות זהות</NEW_PLAYER_NO_IDENTIC_PASS>
+	<NEW_PLAYER_ILLEGAL_MAIL>כתובת המייל אינה חוקית</NEW_PLAYER_ILLEGAL_MAIL>
+	<NEW_PLAYER_MAIL_EXISTING>כתובת המייל כבר בשימוש, יש להשתמש בכתובת אחרת</NEW_PLAYER_MAIL_EXISTING>
+	
+	<CH_B_NO_ORDER>נא לבחור מסדר קסם!</CH_B_NO_ORDER>
+	<CH_B_MIN_NAME>יש לבחור שם בן שלושה תווים לפחות</CH_B_MIN_NAME>
+	
+	<WIN_FIGHT_MSG>כל הכבוד, ניצחת!</WIN_FIGHT_MSG>
+	<FOUND_TREASURE_MSG>מצאת אוצר!</FOUND_TREASURE_MSG>
+	<CLOSE_DUNGEON_MSG>לא ניצחת הפעם, נסה שוב...</CLOSE_DUNGEON_MSG>
+	
+	<MAGIC_NOT_ENOUGH_MONEY>אין לך מספיק במבה בשביל קסם זה</MAGIC_NOT_ENOUGH_MONEY>
+	<MAGIC_MUST_PICK_ONE>לא בחרת קסם</MAGIC_MUST_PICK_ONE>
+	
+	<UPGRADE_CANT_UPGRADE_CARD>לא ניתן לשפר קסם זה יותר</UPGRADE_CANT_UPGRADE_CARD>
+	<UPGRADE_LEVEL_TO_LOW>אתה לא ברמה מספיק גבוהה בכדי לשפר את הקסם</UPGRADE_LEVEL_TO_LOW>
+	<UPGRADE_NO_INGREDIENTS>אין לך את כל הרכיבים הדרושים לשיפור הקסם</UPGRADE_NO_INGREDIENTS>
+	<UPGRADE_MUST_PICK_ONE>לא בחרת קסם</UPGRADE_MUST_PICK_ONE>
+	
+	<STORE_NO_MONEY>אין לך מספיק במבה כדי לקנות את החפץ</STORE_NO_MONEY>
+	<STORE_MUST_PICK_ONE>לא בחרת חפץ</STORE_MUST_PICK_ONE>
+	<STORE_SELL_ITEM>האם אתה בטוח שאתה רוצה למכור את החפץ? השווי שלו הוא</STORE_SELL_ITEM>
+	<STORE_BUY_ITEM>האם אתה בטוח שאתה רוצה לקנות את החפץ? המחיר שלו הוא</STORE_BUY_ITEM>
+	
+	<LEVEL_UP_MSG_HEAD></LEVEL_UP_MSG_HEAD>
+	<LEVEL_UP_MSG>כל הכבוד! עכשיו אתה קוסם ברמה</LEVEL_UP_MSG>
+	<QUEST_MSG_HEAD></QUEST_MSG_HEAD>
+	
+	<MSG_WIN1>אתה זוכה ב:</MSG_WIN1>
+	<!-- <MSG_WIN2> וגם עלית רמה, כל הכבוד. </MSG_WIN2> --> 	
+	<MSG_WIN2></MSG_WIN2>
+	
+	<CHARACTER_NAME></CHARACTER_NAME>
+	<CHARACTER_ORDER>מסדר</CHARACTER_ORDER>
+	<CHARACTER_LEVEL>רמה</CHARACTER_LEVEL>
+	
+	<MENU_NEW_CHARACTER>האם אתה בטוח? ברגע שתלחץ על כפתור האישור, תתחיל בבניית דמות חדשה, והדמות הקיימת תמחק.</MENU_NEW_CHARACTER>
+	<MENU_NO_CHARACTER>עדיין לא בנית דמות, תוכל להתחיל לשחק רק אחרי שתסיים את בניית הדמות</MENU_NO_CHARACTER>
+	
+	<FIGHT_MUST_PICK_3>עליך לבחור 3 קלפים</FIGHT_MUST_PICK_3>
+	
+	<LIFE>אנרגיה</LIFE>
+	<MAGIC>נקודות קסם</MAGIC>
+	<REGENERATION>חידוש קסם</REGENERATION>
+	<EXPOINTS>נקודות נסיון</EXPOINTS>	
+	<PRICE>מחיר</PRICE>
+	<PRICE_SELL>שווי</PRICE_SELL>
+	<MIN_LEVEL>רמה דרושה</MIN_LEVEL>
+	<NEXT_LEVEL>רמה הבאה</NEXT_LEVEL>
+	<DUNGEON_DIFFICULTY>רמת קושי</DUNGEON_DIFFICULTY>
+	
+	<MONEY_NAME>במבה</MONEY_NAME>
+	<INGREDIENT1_NAME>במבה צהובה</INGREDIENT1_NAME>
+	<INGREDIENT2_NAME>במבה נוגט</INGREDIENT2_NAME>
+	<INGREDIENT3_NAME>במבה אדומה</INGREDIENT3_NAME>
+	<INGREDIENT4_NAME>בוטנים</INGREDIENT4_NAME>
+	
+	
+	
+	<!-- Build Character Screen -->
+	<CH_B_TITLE>בחר מסדר קסם</CH_B_TITLE>
+	<CH_B_TEXT>הקוסם שלך יהיה שייך לאחד משלושת מסדרי הקסם המוכרים בממלכה. בחר את המסדר המתאים לקוסם שלך. בחירה זו תלווה אותך למשך כל המשחק.</CH_B_TEXT>
+	<CH_B_OREDER_PRE>מסדר ה</CH_B_OREDER_PRE>
+	<CH_B_ORDERS_DESCS>שלוט בקסמים החמים ביותר בעזרת כוחו האימתני של יסוד האש., היה הקוסם הכי קול בממלכה בעזרת יכולות הכפור המרתיעות שלך., הפוך לבעל שליטה מוחלטת בכוחות הטבע שירתמו לעזרתך.</CH_B_ORDERS_DESCS>
+
+	<CH_B_TABS>צבע,שיער,כובע,גלימה,חגורה,נעליים</CH_B_TABS>
+	<CH_B_FIRST_LINE>עיניים,שיער,כובע,גלימה,חגורה,נעליים</CH_B_FIRST_LINE>
+	<CH_B_SECOND_LINE>חיתול,צבע,צבע,צבע,צבע,צבע,צבע</CH_B_SECOND_LINE>
+	<CH_B_CUSTOM_HEAD>הלבש את הקוסם שלך</CH_B_CUSTOM_HEAD>
+	
+	<CH_B_NAME_TITLE>שם</CH_B_NAME_TITLE>
+	<CH_B_NAME_DESC>תן שם לקוסם</CH_B_NAME_DESC>
+	<CH_B_NAME_QUES>סיימת לבנות את הדמות. האם לאשר אותה?</CH_B_NAME_QUES>
+	
+	<!-- translation tables -->
+	<ORDERS>אש,קרח,טבע</ORDERS>
+	<AREAS>הממלכה הקסומה, הצםון הקר,הר הגעש, האגם</AREAS>
+	<COLORS>0XDB1C00,0X1283A0,0X5F7F0B,0X5C14AD,0X563C0E</COLORS> <!--  the last one is brown for enemy cards -->	
+	<DUNGEON_DIFFICULTIES>קל,בינוני,קשה,מתחיל</DUNGEON_DIFFICULTIES>
+	
+	<!-- loading msgs-->
+	<LOADING_MSGS>טוען קובץ הגדרות כלליות,מגלה יבשות,מייבש ביצות,אוכל במבה,דורך על הדשא,ישן צהריים, בונה ארמון בחול,מניח גבולות,סולל שבילים,בונה סוכת מציל,תופר בגדים,מנקה את המגדל,מבריק מדליות,אופה פשטידה,משתעמם,מצחצח נעליים,קם שעה קודם,קורא ספר,מאכיל את הדגים,מנקה מאחורי האזניים,מחליף חיתול,בולס שקמים,לוקח אחריות,מחכה בסבלנות,שותה מים,סופר עד 100,בונה מגדלים,שואף לגדולות,מנבא טובות,מביט לאחור,מודה להוריי</LOADING_MSGS>
+	<LOADING_FILE_SIZES>5,13,32,78,46,8,20,46,15,6,1,38,69,31,212,77,210,191,149,566,107,343,903,549,106,7</LOADING_FILE_SIZES>
+	<!-- <LOADING_FILE_SIZES>13,52,28,21,8,19,55,15,6,1,17,7,19,122,77,221,66,123,473,91,308,602,244,68</LOADING_FILE_SIZES> -->
+	<LOADING_DUNGEON_MSG>טוען מבוך</LOADING_DUNGEON_MSG>
+	<LOADING_ENEMY_MSG>טוען מפלצות</LOADING_ENEMY_MSG>
+	<LOADING_DUNGEON_MUSIC_MSG>טוען מוסיקת מבוך</LOADING_DUNGEON_MUSIC_MSG>
+	<LOADING_END_MSG>סיימתי, תורך</LOADING_END_MSG>
+	<LOADING_MOVIE_MSG>טוען סרטון פתיחה</LOADING_MOVIE_MSG>
+</dictionary>

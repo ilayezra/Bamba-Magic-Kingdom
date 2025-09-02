@@ -1,0 +1,1634 @@
+﻿<quests>
+	
+	<quest>
+		<id>1</id>
+		<name>טוטוריאל רמה 1</name>
+		<desc>גולדי, ליצן החצר של המלך דניאל, מבקש שתמצא כמה פירות יער בשביל הבדיחה החדשה שלו.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1</dungeonIds>
+		<dungeonDifficulties>4</dungeonDifficulties>
+		<enemiesIds></enemiesIds>
+		<prizesIds>1</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד! מצאת את פירות היער שהליצן רצה. מעניין איזו בדיחה הוא הולך לעשות איתן?</endMsg>
+		<tutorialCode>3</tutorialCode>
+	</quest>
+		
+	<quest>
+		<id>2</id>
+		<name>טוטוריאל רמה 2</name>
+		<desc>ניבגו הגיבן מספר לכולם על צמח טורף ענקי שמסתובב ביער הקרוב. מעניין על מה כל המהומה...</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1</dungeonIds>
+		<dungeonDifficulties>4</dungeonDifficulties>
+		<enemiesIds>2</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>2</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש! ניצחת את הצמח הטורף, כל הכבוד!</endMsg>
+		<tutorialCode>14</tutorialCode>
+	</quest>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<quest>
+		<id>10</id>
+		<name></name>
+		<desc>המלך ג'וט מחפש קוסם נועז שיחזיר לו את כתר הזהב שלו, שנפל לו ביער במהלך הציד.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!!! מצאת את הכתר של המלך ג'וט. נקווה שהוא לא יאבד אותו שוב.</endMsg>
+	</quest>
+	<quest>
+		<id>11</id>
+		<name></name>
+		<desc>המלך בוב ישלם ביד רמה למי שיחזיר את מגפי ההליכה שלו, אותן שכח בעת טיולו האחרון.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>4</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!! מצאת את מגפי ההליכה של המלך בוב! איך הוא הצליח לאבד אותם תוך כדי הליכה ?</endMsg>
+	</quest>		
+	<quest>
+		<id>12</id>
+		<name></name>
+		<desc>עזור לדבי היפה, היא צריכה פרחים לזר החתונה שלה. מצא פרח נדיר הגדל בחורשה הקרובה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את הפרח הכי יפה בחורשה. עכשיו דבי היפה יכולה להתחתן! מזל טוב!</endMsg>
+	</quest>		
+	<quest>
+		<id>13</id>
+		<name></name>
+		<desc>הנסיכה דיאנה מחפשת לוחם אמיץ שיתמודד מול הצמח הטורף שמאיים על הגינה שלה.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הצלחת להציל את הגינה של הנסיכה דיאנה!  עכשיו היא יכולה לנוח בשלווה.</endMsg>
+	</quest>	
+	
+	<quest>
+		<id>14</id>
+		<name></name>
+		<desc>מלך המפלצות מעוניין להתמודד מול קוסם רב עוצמה כדי להוכיח את כוחו. התמודד מולו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הרשמת את מלך המפלצות ביכולות שלך והוא הבטיח להתנהג יפה עד סוף שנה.</endMsg>
+	</quest>
+
+	<quest>
+		<id>15</id>
+		<name></name>
+		<desc>מלך המפלצות החדש לא מוכן להתנהג כמו שצריך. דבר איתו ושנה את דעתו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יופי, המלך הבין שכדאי לו להתנהג כמו שצריך. כל הכבוד!</endMsg>
+	</quest>
+
+	<quest>
+		<id>16</id>
+		<name></name>
+		<desc>מנהיג המפלצות גנב את המזלג הכי אהוב של המלך! החזר אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! מלך המפלצות הפיל את המזלג כשברח ממך תוך כדי בכי.</endMsg>
+	</quest>	
+	
+	<quest>
+		<id>17</id>
+		<name></name>
+		<desc>מנהיג המפלצות הרעות לא מוכן לדבר עם אף אחד עד שינצחו אותו. נסה את מזלך.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד! עכשיו המלך מוכן לעשות כל מה שיגידו לו.</endMsg>
+	</quest>
+
+	<quest>
+		<id>18</id>
+		<name></name>
+		<desc>יש מנהיג חדש לחבורת המפלצות שגרה ליד! הזהר אותו שיתנהג יפה ולא יעשה צרות.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, מלך המפלצות מסכים לשמור על הסדר מעתה.</endMsg>
+	</quest>
+
+	<quest>
+		<id>19</id>
+		<name></name>
+		<desc>הבוס הגדול של עולם המפלצות הגיע לביקור ורוצה להתמודד מולך. צא ותראה לו מי כאן הקוסם.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הבוס הגדול נכנע לעיני כולם! זכית בכבוד גדול בממלכה.</endMsg>
+	</quest>
+	
+	
+	
+	
+	
+	
+	
+	
+
+	<quest>
+		<id>20</id>
+		<name></name>
+		<desc>הצמח הטורף שוב חזר ליער! התמודד מולו אחת ולתמיד.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>2</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, ניצחת את הצמח הטורף, והוא הבטיח להפוך לצמחוני.</endMsg>
+	</quest>
+
+	<quest>
+		<id>21</id>
+		<name></name>
+		<desc>למלך עץ מרושע נכנס קוץ בענף ועכשיו הוא עצבני ורוצה לריב. צא להרגיע אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>5</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>ניצחת את המלך והוצאת לו את הקוץ מהענף, עכשיו הוא רגוע. כל הכבוד!</endMsg>
+	</quest>	
+	
+	<quest>
+		<id>22</id>
+		<name></name>
+		<desc>ליער הגיעה יתושה ענקית והיא עקצה את הפוני האהוב של הנסיכה הדס! צא להבריח אותה.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>6</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! היתושה ברחה והנסיכה הדס רוכבת שנית על הפוני שלה!</endMsg>
+	</quest>
+	
+	<quest>
+		<id>23</id>
+		<name></name>
+		<desc>קוף משוגע ברח מהקרקס והשתלט על חבורת קופים ביער הקרוב. צא להחזיר אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הקוף המשוגע הסכים לחזור לקרקס, כל הכבוד לך.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>24</id>
+		<name></name>
+		<desc>ייטי, איש השלג הנורא, התגלה בהרים הסמוכים. צא לבדוק על מה מדובר.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>3</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש! הברחת את הייטי בחזרה להרים הגבוהים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>25</id>
+		<name></name>
+		<desc>צרה חדשה מאיימת על ממלכה - ביג פוט ענקי שעושה צרות ליושבי ההרים. צא לגרש אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>18</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד! ביג פוט לקח את רגליו הגדולות וברח אל הסלעים כמו שפן (סלעים).</endMsg>
+	</quest>
+	
+	<quest>
+		<id>26</id>
+		<name></name>
+		<desc>טרול עשויי כולו קריסטלים מאיים לגרום למפולת הרים אם לא יקבל יהלום ענקי. טפל בו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>15</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הראית לטרול מה זה! זה ילמד אותו שלא סוחטים את הממלכה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>27</id>
+		<name></name>
+		<desc>מלך קיקלופ יושב על גבעה וזורק אבנים על עוברים ושבים. צא ולמד אותו נימוסים.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>19</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מלך קיקלופ הבטיח שעינו לא תתקרב יותר לאזור. עבודה טובה!</endMsg>
+	</quest>
+	
+		
+	<quest>
+		<id>28</id>
+		<name></name>
+		<desc>עקרב ענקי הופיע במדבר הקרוב ולא נותן לאף אחד לעבור! גרש אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>10</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>ניצחת את העקרב, והוא ברח הרחק לעומק המדבר.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>29</id>
+		<name></name>
+		<desc>מומיה של מלך עתיק קמה לתחייה ומפחידה את הגמלים שגרים במדבר. טפל בה.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>13</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! ניצחת את המומיה, הגמלים חזרו לשלוותם.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>30</id>
+		<name></name>
+		<desc>מלך הקקטוסים הגיח מהמדבר ולא נותן לאיש לעבור. התמודד איתו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>12</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!!! מלך הקקטוסים ברח בבושת פנים ובבושת קוצים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>31</id>
+		<name></name>
+		<desc>ג'יני מרושע ברח מהמנורה שלו ומפחיד את תושבי המדבר. צא להחזיר אותו למנורה.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>16</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין, הג'יני חזר למנורה שלו, ואת המנורה קברו עמוק בחול.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>32</id>
+		<name></name>
+		<desc>מלך חדש למפלצות המוזרות הגרות באזור האגם! צא לבדוק במה מדובר.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>8,3</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>11</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מלך המפלצות ברח על רגלי התרנגולת שלו כל עוד נפשו בו.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>33</id>
+		<name></name>
+		<desc>דחליל ישן שהושאר באזור האגמים קם לתחיה ומסתובב חופשי. צא להתמודד מולו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>8,3</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>4</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הדחליל הענקי הסכים להשאר במקום אחד, מצויין.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>34</id>
+		<name></name>
+		<desc>טרול האבן הגדול ביותר שקיים זורע הרס באזור האגמים. צא להרגיע אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>8,3</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, הטרול הוציא את כל העצבים שלו ונרגע.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>35</id>
+		<name></name>
+		<desc>מלך הדרקונים התיישב באזור האגם ודורש 1000 כבשים. מישהו צריך לטפל בו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>8,3</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>7</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! הדרקון למד לא להתעסק עם הממלכה שלנו. לכבשים שלום.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>36</id>
+		<name></name>
+		<desc>מלך רוח רפאים מפחיד את הגרים בביצות הקרובות. צא להתמודד מולו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>8</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש! הברחת את מלך רוח רפאים והביצה שוב שקטה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>37</id>
+		<name></name>
+		<desc>מלך אנשי הרפש יצא מהביצה ומפיץ ריח רע בכל האזור. צא לטפל בבעיה.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>9</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, הברחת את המלך המסריח בחזרה לביצה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>38</id>
+		<name></name>
+		<desc>מכת עטלפים ערפדיים מאיימת על התושבים. צא להתמודד מול המנהיג שלהם.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>17</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מנהיג העטלפים נכנע והבטיח לאכול רק פירות. כל הכבוד.</endMsg>
+	</quest>
+
+	<quest>
+		<id>39</id>
+		<name></name>
+		<desc>מלאך המוות האפל עלה מן הביצה וזורע אימה בכל הסובבים. טפל בו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>14</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!! ניצחת את מלאך המוות האפל, עכשיו הביצה רגועה.</endMsg>
+	</quest>	
+	
+	
+	
+	
+	<quest>
+		<id>50</id>
+		<name>להציל את ונדי</name>
+		<desc>מפלצות רעות פלשו לאזור בו המלך אוהב לבלות את זמנו. הפטר מכל האוייבים וממנהיגם המרושע</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, המפלצות ברחו מהר מהר והמלך יכול שוב לטייל</endMsg>
+	</quest>
+	<quest>
+		<id>51</id>
+		<name>בעיית מזיקים</name>
+		<desc>דוכס האלי פוטל מתלונן על קולות שהוא שומע מהדשא שמאחורי ביתו. נקה את הדשא של הדוכס מכל המזיקים.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד לך, ניקית את הדשא של האלי פוטל.</endMsg>
+	</quest>
+	<quest>
+		<id>52</id>
+		<name>בעיית מזיקים</name>
+		<desc>ברחבי הממלכה מדברים על חבורת מפלצות שמסתובבת בשעת השקיעה ומפריעה לאנשים לעבור. טפל בהם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>עבודה טובה , סוף סוף הערבים חזרו להיות שלווים.</endMsg>
+	</quest>
+	<quest>
+		<id>53</id>
+		<name>בעיית מזיקים</name>
+		<desc>אוג המהיר והאיום וחבורת הבריונים שלו מטילים אימה על תושבי הכפרים, המבקשים את עזרתו של קוסם מנוסה.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>ניצחון! לפי המהירות בה אוג המהיר ברח, אפשר להבין מאיפה הוא קיבל את שמו.</endMsg>
+	</quest>
+	
+	
+		
+	<quest>
+		<id>60</id>
+		<name>2</name>
+		<desc>אחד העצים המרושעים שגדלים ביער הקרוב זורק אצטרובלים על העוברים ושבים. עצור אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>5</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>ניצחת את העץ המרושע ולקחת את כל האצטרובלים שלו, כל הכבוד.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>61</id>
+		<name>2</name>
+		<desc>אחד הצמחים הטורפים שביער הקרוב בלע את המפתח לשער הארמון של המלך. צא להחזיר אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>2</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! לא היה קל, אבל הצלת את המפתח מהצמח הטורף.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>62</id>
+		<name>2</name>
+		<desc>אחת היתושות הענקיות רבה עם חברה שלה ומבקשת את עזרתך. צא לסדר את העניינים.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>6</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מסתבר שקצת זמן ביחד איתך יכול לפתור גם בעיות של יתושים. יפה מאוד!</endMsg>
+	</quest>
+	
+	<quest>
+		<id>63</id>
+		<name>2</name>
+		<desc>אחד הקופים המשוגעים גנב את האופניים של הנסיך הצעיר אלעד השלישי. החזר לו אותם.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>20</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד! החזרת את האופניים לנסיך הצעיר. בינתיים הוא התחיל לנסוע על סקטים</endMsg>
+	</quest>
+	
+	<quest>
+		<id>64</id>
+		<name>2</name>
+		<desc>אחד מהייטים גנב את בובת איש השלג האהובה של הדוכסית. צא להחזיר אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>3</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! מצאת את הבובה  הגנובה והחזרת אותו לדוכסית.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>65</id>
+		<name>2</name>
+		<desc>מישהו מכנופיית הביג פוטים גנב את הנעליים של הנסיכה ורדית. התמודד מול הגנב.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>18</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את הנעליים של הנסיכה (והם מידה 54)</endMsg>
+	</quest>
+	
+	<quest>
+		<id>66</id>
+		<name>2</name>
+		<desc>אחד מטרולי ההרים לא מוכן לשמוע למנהיג הכנופייה, והמנהיג מבקש שתטפל בו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>15</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>החזרת את הטרול המורד למקומו, כל הכבוד.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>67</id>
+		<name>2</name>
+		<desc>לאזור הקיקלופים הגיע קיקלופ חדש שעושה צרות. צא להתמודד מולו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>19</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>לימדת את הקיקלופ החדש שבממלכה שלנו יש לשמור על החוקים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>68</id>
+		<name>2</name>
+		<desc>אחד העקרבים הענקיים מאיים לעקוץ את הגמל האהוב של המלך. גרש אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>10</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, גירשת את העקרב המאיים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>69</id>
+		<name>2</name>
+		<desc>אחת המומיות ברחה מהפירמידה שלה ומסתובבת במדבר. גרש אותה.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>13</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! החזרת את המומיה לפירמידה שלה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>70</id>
+		<name>2</name>
+		<desc>אחד הקקטוסים במדבר קם לתחיה ויורה קוצים לכל עבר. האם אתה מוכן לעזור להפטר ממנו?</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>12</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הקקטוס המורד חזר להיות צמח פשוט ושקט. מה היינו עושים בלי קוסם בממלכה?</endMsg>
+	</quest>
+	
+	<quest>
+		<id>71</id>
+		<name>2</name>
+		<desc>אחד הג'ינים הקסומים לא מוכן להקשיב להורים שלו והם מבקשים את עזרתך.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>16</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הג'יני הסכים להקשיב להורים שלו. יופי! זה באמת עוזר להקשיב להורים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>72</id>
+		<name>2</name>
+		<desc>קוקיגולת קסומה יצאה מאזורי האגם ולא מוצאת את דרכה הביתה. צא לעזור לה.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>11</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>זו הייתה מלכודת! מזל שעמדת על המישמר.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>73</id>
+		<name>2</name>
+		<desc>אחד הדחלילים רוצה לאמן את העורב החדש שלו מול קוסם גדול. לך לעזור לו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>4</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! העורב של הדחליל ממש מיומן עכשיו.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>74</id>
+		<name>2</name>
+		<desc>טרול אבן מרושע לא מוכן לחזור למערה שלו. המלך של הטרולים מבקש את עזרתך.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>לימדת את הטרול שיעור בהתנהגות, המלך מרוצה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>75</id>
+		<name>2</name>
+		<desc>דרקון צעיר לא מוכן להקשיב למנהיג הדרקונים ועושה צרות. דרושה עזרה מקוסם אמיתי.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>7</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הדרקון הצעיר נשבע שיתנהג מעכשיו כמו יונת שלום.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>76</id>
+		<name>2</name>
+		<desc>אחת הרוחות רפאים צועקת בלילות ולא נותנת לתושבי הביצה לישון. טפל בה.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>8</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, הברחת את רוח הרפאים הרעה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>77</id>
+		<name>2</name>
+		<desc>איש רפש תחמן גנב את הברווזון האהוב של מפקד הצבא. החזר אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>9</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! הצלת את הברווזון מאיש הרפש המצחין.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>78</id>
+		<name>2</name>
+		<desc>עטלף ערפדי נכנס בלילה לחדר של המלכה! המלכה דורשת דו קרב מול קוסם גיבור.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>17</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>ניצחת את העטלף וזכית בהוקרת המלכה, כל הכבוד.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>79</id>
+		<name>2</name>
+		<desc>אחד הבנים של מלאך המוות רוצה למרוד ולפתוח מקום משלו. עצור אותו.</desc>>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>14</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יפה מאוד, לימדת את הבן של מלאך המוות שמרדנות לא מביאה לתוצאות.</endMsg>
+	</quest>	
+	
+	
+	
+	
+	
+	
+	<quest>
+		<id>100</id>
+		<name>2</name>
+		<desc>אחד מהמפלצות גנב את השרביט של המלך - החזר אותו</desc>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את השרביט. המלך אמר שהוא ישמור עליו טוב יותר.</endMsg>
+	</quest>
+	<quest>
+		<id>101</id>
+		<name>2</name>
+		<desc>צחי השתקן צורח בקולי קולות על שגנבו לו את הסוס האהוב. מצא את הגנב והחזר לצחי השתקן את סוסו.</desc>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יופי! מצאת את הסוס הגנוס. צחי השתקן רוכב שנית!</endMsg>
+	</quest>
+	<quest>
+		<id>102</id>
+		<name>2</name>
+		<desc>הנזירה גליה מחפשת גיבור שיגן על שמה הטוב מול מפלצת שפגעה בכבודה. הגן על שמה הטוב של גליה הנזירה.</desc>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! גרמת למפלצת לשלוח מכתב התנצלות רישמי, הנזירה שמחה.</endMsg>
+	</quest>
+	<quest>
+		<id>103</id>
+		<name>2</name>
+		<desc>בשביל שאינו רחוק מהמגדל שלך מסתובבת מפלצת ועושה רעש שמפריע לך לישון. צא לרדוף אחריה.</desc>
+		<type>1</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>5</prizesIds>
+		<exPoints>20</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>2</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד! המפלצת ברחה ועכשיו אתה יכול לישון בשקט.</endMsg>
+	</quest>
+	
+	
+	
+	<quest>
+		<id>110</id>
+		<name>3</name>
+		<desc>ביער הקרוב התרבו העצים המרושעים והם מאיימים על התושבים. טפל בהם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>5</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, ניקית את היער מהעצים הרעים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>111</id>
+		<name>3</name>
+		<desc>צמחים טורפים מילאו את היער והם מסכנים את החיות ואת החרקים. הצל את חבריך.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>2</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה! מזמן לא נראו צמחים טורפים שרצים כה מהר.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>112</id>
+		<name>3</name>
+		<desc>היער התמלא ביתושי ענק שעושים רעש נוראי. הגיע הזמן להפטר מהם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>6</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש! אין יותר יתושים והיער שוב שקט.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>113</id>
+		<name>3</name>
+		<desc>חבורה של קופים משוגעים השתלטו על היער ועושים בלגאן נוראי. גרש אותם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>1,6</dungeonIds>
+		<dungeonDifficulties>1</dungeonDifficulties>
+		<enemiesIds>20</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>1</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין, גירשת את כל הקופים מהיער. כלומר, את אלה שעושים צרות.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>114</id>
+		<name>3</name>
+		<desc>כנופייה של ייטים ירדה מההרים ומאיימת לא לתת לאיש לעבור שם. סלק אותם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>3</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, עכשיו אפשר לטייל שוב בהרים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>115</id>
+		<name>3</name>
+		<desc>צבא שלם של ביג פוטים התגלה בהרים. חייבים להרחיק אותם מכאן, שלא ידרסו את הפרחים.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>18</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, כל הביג פוטים ברחו ולפרחים שלום.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>116</id>
+		<name>3</name>
+		<desc>להרים פלשה משפחה של טרולים עשויים קריסטל, הידועים במזג רע. צא ללמיד אותם נימוסים.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>15</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הטרולים הבטיחו להתנהג יפה, עבודה טובה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>117</id>
+		<name>3</name>
+		<desc>חבורת קיקלופים השתלטו על פסגת ההר הגבוה של המלך. צא להחזיר את הפסגה.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>2,7</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>19</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! כל הקיקלופים גורשו.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>118</id>
+		<name>3</name>
+		<desc>נחיל עקרבים ענקיים מתפרע ללא שליטה במדבר הקרוב. צא לטפל בבעיית המזיקים הזאת.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>10</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, כל העקרבים ברחו.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>119</id>
+		<name>3</name>
+		<desc>מלך המומיות מוביל צבא שלם להשתלט על הממלכה. צא להתמודד מולו.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>13</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!!! ניצחת את כל המומיות ואת המלך שלהם.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>120</id>
+		<name>3</name>
+		<desc>חבורת קקטוסים ענקיים מפרים את החיים השלווים של תושבי המדבר. צא לטפל בבעיה.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>12</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין, גירשת את כל הקקטוסים מהאזור.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>121</id>
+		<name>3</name>
+		<desc>ג'יני סולטן אסף את כל החברים שלו ויצא להשתלט על כל אזורי המדבר. התמודד מולם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>4,9</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>16</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, כל הג'ינים ברחו למנורות שלהם.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>122</id>
+		<name>3</name>
+		<desc>כנופיית קוקיגולות ברחה מהאזור הקסום של האגמים והשתלטה על הכפר הקרוב. הצל את תושבי הכפר.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>11</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, שחררת את הכפר מאיום הקוקיגולות.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>123</id>
+		<name>3</name>
+		<desc>חבורת דחלילים מפחידים מאיימת על החיים  השלווים שמסביב לאגם. חייבים לטפל בהם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>4</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין, כל הדחלילים ברחו מהאגם.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>124</id>
+		<name>3</name>
+		<desc>המוני טרולים עשויים אבן חסמו את האגם האהוב של המלכה. צא וגרש אותם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>1</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, עכשיו המלכה שוב יכולה לטייל באגם.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>125</id>
+		<name>3</name>
+		<desc>דרקונים!!! דרקונים בשמי הממלכה! חייבם לגרש אותם לפני שיעשו נזק.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>3,8</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>7</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>גירשת את כל הדרקונים! השמיים שוב בטוחים!</endMsg>
+	</quest>
+	
+	<quest>
+		<id>126</id>
+		<name>3</name>
+		<desc>המוני רוחות רפאים מסתובבים בביצה ועושים קולות מפחידים. לך לביצה וטפל בהם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>8</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יפה מאוד, שוב אפשר להנות מהשקט שבביצה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>127</id>
+		<name>3</name>
+		<desc>מנהיג אנשי הרפש אסף צבא ענקי ודורש כופר או שיפלוש לממלכה. צא להתמודד מול האיום.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>9</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>זה ידוע שאנשי רפש סופם להכשל. עבודה טובה!</endMsg>
+	</quest>
+	
+	<quest>
+		<id>128</id>
+		<name>3</name>
+		<desc>להקת עטלפים ערפדיים חדרו לממלכה ומסתבכים בשיער של האנשים. חייבים לגרש אותם.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>17</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה, גירשת את כל העטלפים. בני הממלכה הסירו את הכובעים.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>129</id>
+		<name>3</name>
+		<desc>כנופייה של מלאכי המוות עלו מהביצה ולא מוכנים לחזור אליה. צא ולמד אותם לקח.</desc>>
+		<type>3</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>5,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		<enemiesIds>14</enemiesIds>
+		<prizesIds>7</prizesIds>
+		<exPoints>40</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>1</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין, טיפלת בכל מלאכי המוות. יקח זמן עד שנשמע מהם שוב...</endMsg>
+	</quest>
+
+
+
+	<quest>
+		<id>150</id>
+		<name>3</name>
+		<desc>ליצן החצר סיפר לך על אוצר ובו כתר יפייפה. מצא את הכתר החבוי בתוך תיבה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!!! מצאת את הכתר.</endMsg>
+	</quest>
+	<quest>
+		<id>151</id>
+		<name>3</name>
+		<desc>עוזי הקבצן מבקש שתמצא לו בגד חם לחורף. שמעת שיש בגד זרוק בסביבה. מצא אותו.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין! מצאת מעיל מרופט, אבל מחמם. עוזי יהיה מאוד מרוצה.</endMsg>
+	</quest>
+	<quest>
+		<id>152</id>
+		<name>3</name>
+		<desc>גילגי מוכרת הספרים איבדה את הסימניה האהובה אליה. מצא את הסימניה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש! מצאת את הסימניה של גילגי בזמן, האצבע שלה כבר נהייתה אדומה.</endMsg>
+	</quest>
+	<quest>
+		<id>153</id>
+		<name>3</name>
+		<desc>קונגו מלך הקופים סיים את מלאי הבננות שלו. צא למצוא לו בננות חדשות.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת ערימה ענקית של בננות ואפילו תפוח לעצמך! איזה יום מוצלח.</endMsg>
+	</quest>
+	
+	
+	
+	<quest>
+		<id>160</id>
+		<name>3</name>
+		<desc>גיזמו הגיזבר מבקש ממך להחזיר את רשימת המיסים שלו שאיבד לפני יומיים. מצא אותה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כל הכבוד, מצאת את רשימת המיסים של גיזמו הגיזבר. כדאי להמשיך לזוז לפני שיתחיל לדבר עליה</endMsg>
+	</quest>
+	
+	<quest>
+		<id>161</id>
+		<name>3</name>
+		<desc>דולצ'ה הדוכס איבד את החרב האהובה אליו. מצא את החרב והחזרת לו אותה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת פגיון קטנטן עם שמו של דולצ'ה עליו. והוא קורא לזה חרב...</endMsg>
+	</quest>
+	
+	<quest>
+		<id>162</id>
+		<name>3</name>
+		<desc>השודד הכי מפורסם בממלכה הפיל את תיבת האוצר שלו במהלך הבריחה. מצא את האוצר.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>כן, כן, מצאת את האוצר של השודד. </endMsg>
+	</quest>
+	
+	<quest>
+		<id>163</id>
+		<name>3</name>
+		<desc>כיפה ירוקה איבדה את סל הקניות שלה במהלך הטיול ליד המגדל שלך. מצא אותו.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>איזה כיף , מצאת את סל הקניות של כיפה ירוקה. היא פצתה אותך בפטריות שליקטה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>164</id>
+		<name>3</name>
+		<desc>הודעה חשובה ! כל המוצא את שעון הקוקיה שלי ייקבל תגמול הולם. על החתום - המלך.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצויין , מצאת את שעון הקוקיה של המלך וקיבלת פרס.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>165</id>
+		<name>3</name>
+		<desc>הנסיכה רוצה מתנה חדשה. צא לחפש משהו שיעניין את הנסיכה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת פנינה השחורה הכי גדולה שראית. הנסיכה בטח תהיה מרוצה.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>166</id>
+		<name>3</name>
+		<desc>דני השכחן שכח משהו בעת טיולו האחרון והוא אפילו לא זוכר מה זה. עזור לדני השכחן</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את השיקוי נגד שכחה של דני השכחן. עכשיו הוא יזכור את הכל.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>167</id>
+		<name>3</name>
+		<desc>משעמם לך במגדל. צא לחפש משהו מעניין בחוץ, אולי אחר-כך תוכל למכור אותו.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת כמה אבנים יקרות. איזה יום מוצלח.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>168</id>
+		<name>3</name>
+		<desc>המורה שלך לשעבר איבד את המשקפיים שלו במהלך טיול לילי. מצא את המשקפיים.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את המשקפיים, אבל הם שבורות. טוב שלמורה יש עוד זוג.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>169</id>
+		<name>3</name>
+		<desc>הדגלן של המלך איבד את הדגל! מצא את הדגל לפני שהמלך יגלה  ויתרגז על הדגלן.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>יש!! מצאת את הדגל והחזרת אותו לדגלן  10 דקות לפני המצעד.</endMsg>
+	</quest>
+	
+	<quest>
+		<id>170</id>
+		<name>3</name>
+		<desc>יוצר התיבות הכי מפורסם בממלכה איבד את תיבת העץ המגולפת שהכין. מצא אותה.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את התיבה בתוך תיבה אחרת! איזה מזל...</endMsg>
+	</quest>
+	
+	<quest>
+		<id>171</id>
+		<name>3</name>
+		<desc>לקרן החד-קרן נפלה הקרן. עזור למצוא את הקרן של קרן החד-קרן.</desc>>
+		<type>4</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>4</prizesIds>
+		<exPoints>10</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>3</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מצאת את הקרן של קרן החד-קרן. כל הכבוד לך.</endMsg>
+	</quest>
+	
+	
+	<quest>
+		<id>200</id>
+		<name>4</name>
+		<desc>מפלצות מרושעות שוב פלשו לממלכה. תתמודד מול המנהיג שלהם ותראה להם מי כאן הגיבור.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>4</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>מעולה!! למנהיג של המפלצות לא היה שום סיכוי מול מגן הממלכה.</endMsg>
+	</quest>
+	<quest>
+		<id>220</id>
+		<name>4</name>
+		<desc>מנהיג של חבורת המפלצות מהממלכה השכנה פלש לממלכה שלנו ומפחיד את המקומיות. גרש אותו.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>4</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>הצלחת לגרש את מנהיג המפלצות בחזרה לממלכה הרחוקה. המפלצות שלנו הבטיחו בתמורה יומיים של שקט</endMsg>
+	</quest>
+	<quest>
+		<id>221</id>
+		<name>4</name>
+		<desc>למפלצות מתחשק לעשות מעשים טובים, אבל המלך שלהם לא נותן להם. צא להתעמת מול המלך.</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>4</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>המלך של המפלצות הבין את טעותו ואפילו החליט לעשות מעשה טוב אחד בעצמו. מעולה!</endMsg>
+	</quest>
+	<quest>
+		<id>222</id>
+		<name>4</name>
+		<desc>מלך המפלצות קורא עליך תיגר. האם תעמוד באתגר?</desc>>
+		<type>2</type> <!-- 1 kill enemy 2-kill boss 3-clean dungeon 4-find 
+
+hiden item-->
+		<dungeonIds>1,2,3,4,5,6,7,8,9,10</dungeonIds>
+		<dungeonDifficulties>1,2,3</dungeonDifficulties>
+		
+
+<enemiesIds>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</enemiesIds>
+		<prizesIds>6</prizesIds>
+		<exPoints>30</exPoints>
+		<minLevel>4</minLevel>
+		<qGraphics>4</qGraphics> <!-- same for item / girl or eneythig eles -->
+		<endMsg>שוב הוכחת לכולם מי כאן הקוסם האמיתי.</endMsg>
+	</quest>
+	
+</quests>

@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ruffle-player,
+ruffle-embed,
+ruffle-object {
+    --splash-screen-background: #141313;
+    --logo-display: block;
+}
+
+/* Flex container to center the game */
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+/* Responsive game container */
+.game {
+    position: relative;
+    width: 100%;
+    max-width: 100vw;
+    max-height: 100vh;
+    aspect-ratio: 736 / 520; /* keeps correct aspect ratio */
+}
+
+/* Make ruffle stretch to container */
+.game ruffle-embed {
+    width: 100%;
+    height: 100%;
+    display: block;
+}

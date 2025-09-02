@@ -1,0 +1,43 @@
+{
+    "name": "bamba-game",
+    "version": "1.0.0",
+    "main": "main.js",
+    "private": true,
+    "scripts": {
+        "start": "npx electron .",
+         "dist": "npx electron-builder"
+    }
+,
+    "build": {
+        "appId": "com.milki.bambamagickingdom",
+        "productName": "Bamba Magic Kingdom",
+        "files": [
+            "main.js",
+            "preload.js",
+            "src/**/*",
+            "package.json"
+        ],
+        "directories": {
+            "output": "dist"
+        },
+        "win": {
+            "target": [
+                "nsis",
+                "portable"
+            ],
+            "icon": "icon.ico"
+        },
+        "nsis": {
+            "oneClick": true,
+            "perMachine": false,
+            "allowToChangeInstallationDirectory": false
+        }
+    },
+    "devDependencies": {
+        "electron": "^31.0.0",
+        "electron-builder": "^24.0.0"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}

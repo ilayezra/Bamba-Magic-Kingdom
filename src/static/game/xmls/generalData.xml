@@ -1,0 +1,151 @@
+<generalData> 
+	<fightBoard>
+	<!-- fight board params -->
+		<fightBoardXY>
+		195,285:360,285:525,285:690,285*
+		165,335:347,335:540,335:720,335*
+		130,400:338,400:550,400:760,400
+		</fightBoardXY>
+		<fightXoffset>45,50,55</fightXoffset>
+		<fightZsize>0.8,0.9,1</fightZsize>
+		<fightSmallBoardXY>
+		16,17:44,17:72,17:102,17*
+		16,45:44,45:72,45:102,45*
+		16,73:44,73:72,73:102,73
+		</fightSmallBoardXY>
+	</fightBoard>
+	
+	<dungeonDifficulties>
+		<difficulty>
+			<enemyLevels>-2,-1,0</enemyLevels>
+			<bossLevels>-1,0,1</bossLevels>
+			<prizePrc>0.8</prizePrc>
+		</difficulty>
+		<difficulty>
+			<enemyLevels>-1,0,1</enemyLevels>
+			<bossLevels>0,1,2</bossLevels>
+			<prizePrc>1</prizePrc>
+		</difficulty>
+		<difficulty>
+			<enemyLevels>0,1,2</enemyLevels>
+			<bossLevels>1,2,3</bossLevels>
+			<prizePrc>1.2</prizePrc>
+		</difficulty>
+		<difficulty>
+			<enemyLevels>-1</enemyLevels>
+			<bossLevels>-1</bossLevels>
+			<prizePrc>1</prizePrc>
+		</difficulty>
+	</dungeonDifficulties>
+	
+	<itemsLevels>-3,-2,-1,0,1</itemsLevels>
+	<defaultAnimLength>0.7</defaultAnimLength>
+	<defaultDungeonAnimLength>0.3</defaultDungeonAnimLength>
+	<winAnimLength>2</winAnimLength>
+	<barAnimLength>1</barAnimLength>
+	
+	<beenHitAnimName>beenHit</beenHitAnimName>
+	<winAnimName>win</winAnimName>
+	<loseAnimName>lose</loseAnimName>
+	
+	<sharedOrder>4</sharedOrder>
+	<mainMap>
+		<areas>
+		<!-- 1,1,area1MC* 
+		2,1,area2MC*
+		3,4,area3MC*
+		4,8,area4MC*
+		5,12,area5MC*
+		6,16,area6MC  -->
+		<!--id,minLevel,graphicsName -->
+		
+		1,1,area1MC* 
+		2,1,area2MC*
+		3,4,area3MC*
+		4,8,area4MC*
+		5,12,area5MC*
+		6,16,area6MC
+		</areas>		
+		<dungeons>		
+		3,260,365*
+		8,60,365*
+		4,260,85* <!--id,x,y -->
+		9,140,155*
+		2,640,105*
+		7,570,25*
+		1,420,335*
+		6,240,255*
+		5,750,300*
+		10,665,415
+		</dungeons>
+	</mainMap>
+	
+	<ordersStartDef>
+		<order>
+			<magic>1,2,80</magic>
+			<cards>1,2,3,4,5,10,100,105</cards>
+			<items>502</items>
+		</order>
+		<order>
+			<magic>31,32,80</magic>
+			<cards>1,2,3,4,5,10,200,205</cards>
+			<items>505</items>
+		</order>
+		<order>
+			<magic>51,52,80</magic>
+			<cards>1,2,3,4,5,10,300,305</cards>
+			<items>501</items>
+		</order>
+	</ordersStartDef>
+	
+	<characterCustom>		
+		<tab>
+			<line1>700,701,702,703,704,705</line1><!--  - eyes -->
+			<line2dep>0</line2dep> <!-- no dependancy. no more than 6 items -->
+			<line2>800,801,802,803,804,805</line2> <!-- - diper -->
+		</tab>
+		<tab>
+			<line1>600,620,630,662,675,651</line1>
+			<line2dep>1</line2dep>
+			<line2-1>600,601,602,603,604,605</line2-1> <!-- all of 1st in line1 -->
+			<line2-2>620,621,622,623,624,625</line2-2>
+			<line2-3>630,631,632,633,634,635</line2-3>					
+			<line2-4>662,660,661,663,665,664</line2-4>
+			<line2-5>675,673,674,670,672,671</line2-5>	
+			<line2-6>651,650,654,652,653,655</line2-6>			
+		</tab>
+		<tab>
+			<line1>130,120,100</line1> <!-- HAT -->
+			<line2dep>2</line2dep>			
+			<line2-1>130,131,132,133,134,135</line2-1>
+			<line2-2>120,121,122,123,124,125</line2-2>
+			<line2-3>100,101,102,103,104,105</line2-3>
+			
+		</tab>
+		<tab>
+			<line1>200,210,230</line1>
+			<line2dep>2</line2dep>
+			<line2-1>200,201,202,203,204,205</line2-1> <!-- CAPE -->
+			<line2-2>210,211,212,213,214,215</line2-2>			
+			<line2-3>230,231,232,233,234,235</line2-3>			
+		</tab>
+		<tab>
+			<line1>340,330,300</line1>
+			<line2dep>2</line2dep>
+			<line2-1>340,341,342,343,344,345</line2-1>
+			<line2-2>330,331,332,333,334,335</line2-2>	
+			<line2-3>300,301,302,303,304,305</line2-3> <!-- BELT
+ -->							
+		</tab>
+		<tab>
+			<line1>400,430,410</line1>
+			<line2dep>2</line2dep>
+			<line2-1>400,401,402,403,404,405</line2-1> <!-- SHOES -->					
+			<line2-2>430,431,432,433,434,435</line2-2>	
+			<line2-3>410,411,412,413,414,415</line2-3>				
+		</tab>
+	</characterCustom>
+	<mapTrails>1to6,6to1,2to7,7to2,3to8,8to3,4to9,9to4,5to10,10to5</mapTrails>
+	<mapTimeDef>3</mapTimeDef>
+	<mapTimes>0to1%2.7,1to0%2.7,0to6%2.7,6to0%3,1to6%2.55,6to1%2.65,0to2%2.7,2to0%2.7,0to7%3.96,7to0%3.55,2to7%2.1,7to2%2.05,0to3%2.3,3to0%2.26,0to8%3.6,8to0%3.36,3to8%2.86,8to3%2.43,0to4%2.75,4to0%2.63,0to9%2.9,9to0%3.06,4to9%2.6,9to4%2.53,0to5%3.9,5to0%3.33,0to10%5.83,10to0%6,5to10%4.13,10to5%4.1</mapTimes>
+</generalData>

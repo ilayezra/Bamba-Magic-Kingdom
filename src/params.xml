@@ -1,0 +1,50 @@
+﻿<params>
+	<!--<playerDataSource>/login</playerDataSource> 
+	<newPlayerDataSource>/register</newPlayerDataSource> 
+	<updatePlayerDataSource>/updateDetails</updatePlayerDataSource>
+	<forgetPassSource>/forget_new</forgetPassSource>
+	<sendPassSource>http://127.0.0.1/MagicKingdom/sendPassword.asp</sendPassSource>-->
+
+	<playerDataSource>static/game/xmls/playerData.xml</playerDataSource> 
+	<newPlayerDataSource>unused</newPlayerDataSource> 
+	<updatePlayerDataSource>unused</updatePlayerDataSource>
+	<forgetPassSource>local</forgetPassSource>	
+	<sendPassSource>127.0.0.1/MagicKingdom/sendPassword.asp</sendPassSource>  
+	
+	<xmlPath>static/game/xmls</xmlPath>
+	<assetsPath>static/game/assets</assetsPath>
+	<soundsPath>static/game/sounds</soundsPath>
+	
+	<dictionaryFileName>dictionary.xml</dictionaryFileName>
+	<generalDataFileName>generalData.xml</generalDataFileName>
+	<playerLevelsFileName>playerLevels.xml</playerLevelsFileName>
+	<magicBookFileName>magicBook.xml</magicBookFileName>
+	<cardsFileName>cards.xml</cardsFileName>
+	<enemiesFileName>enemies.xml</enemiesFileName>
+	<enemiesLevelsFileName>enemiesLevels.xml</enemiesLevelsFileName>
+	<itemsBaseFileName>itemsBase.xml</itemsBaseFileName>
+	<itemsFileName>items.xml</itemsFileName>
+	<storeItemsFileName>storeItems.xml</storeItemsFileName>
+	<prizesFileName>prizes.xml</prizesFileName>
+	<surprisesFileName>surprises.xml</surprisesFileName>
+	<dungeonsDataFileName>dungeonsData.xml</dungeonsDataFileName>
+	<questsFileName>quests.xml</questsFileName>
+	<helpFileName>help.xml</helpFileName>
+	<soundsFileName>sounds.xml</soundsFileName>	
+	
+	<openingAssets>openingAssets.swf,openingScreen</openingAssets> 
+	<generalAssets>general.swf,msgBox,waitBox,yesNoBox,yesNoBox,winBox,questBox,levelBox,generalFrame,prizeIcon,questIcon,skipButton</generalAssets>
+	<menuAssets>menu.swf,menuScreen</menuAssets>
+	<newPlayerAssets>newPlayer.swf,newPlayerScreen,characterBuildScreen</newPlayerAssets>
+	<cardsAssets>cards.swf,cardBase,magicBase,cardPopup</cardsAssets>
+	<itemsAssets>items.swf,stickMC,capeMC,beltMC,hatMC,shoesMC,hairMC,eyesMC,daiperMC,itemFrame,itemPopup</itemsAssets>
+	<babyAssets>baby.swf,babyMain,babyAttacks</babyAssets>
+	<fightGraphicsAssets>fightGraphics.swf,fightScreen,fighterIcon,hitAnim,hitMatrix,hitPoints</fightGraphicsAssets>
+	<dungeonIconsAssets>dungeonGraphics.swf,dungeonMain,dungeonIcon,possibleMove,enemyTip</dungeonIconsAssets>
+	<towerAssets>towerScreens.swf,towerScreen,questManagerScreen,magicBookScreen,cardsUpgradeScreen,storeScreen,characterScreen</towerAssets>
+	<mapAssets>mapGraphics.swf,kingdomMap,mapIcon</mapAssets>
+	<helpAssets>help.swf,help01,help02,help03,help04,help05,help06,help07,help08,emptyCard</helpAssets>
+	<movieAsset>IntroBamba.swf</movieAsset>
+	<dungeonAssetsNames>dungeonMap,fightBack</dungeonAssetsNames>
+	<enemyAssetsNames>enemyReg,enemyBoss,enemyAttacks</enemyAssetsNames>
+</params>

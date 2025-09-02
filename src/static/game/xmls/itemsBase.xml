@@ -1,0 +1,788 @@
+﻿<itemsBase>
+	<!-- types
+	1-כובע
+	2-גלימה
+	3-חגורה
+	4-נעליים
+	5-מטה
+	6 - שיער
+	7- עיניים
+	8-חיתול-->	
+	<itemBase>
+		<id>100</id>
+		<name>קסדה פשוטה</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	<itemBase>
+		<id>110</id>
+		<name>קסדה ויקינגית</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>1250</buyPrice>
+		<sellPrice>125</sellPrice>
+		<minLevel>9</minLevel>
+		<addLife>3</addLife>
+		<addMagic>3</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>120</id>
+		<name>כובע מכשפה</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	<itemBase>
+		<id>130</id>
+		<name>כובע קוסם</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>140</id>
+		<name>כובע סייף</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>7000</buyPrice>
+		<sellPrice>700</sellPrice>
+		<minLevel>15</minLevel>
+		<addLife>5</addLife>
+		<addMagic>5</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>150</id>
+		<name>כובע אציל</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>10</buyPrice>
+		<sellPrice>1</sellPrice>
+		<minLevel>2</minLevel>
+		<addLife>0</addLife>
+		<addMagic>3</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>160</id>
+		<name>כובע ליצן</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>16000</buyPrice>
+		<sellPrice>1600</sellPrice>
+		<minLevel>19</minLevel>
+		<addLife>7</addLife>
+		<addMagic>7</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>170</id>
+		<name>כובע שודד ים</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>11000</buyPrice>
+		<sellPrice>1100</sellPrice>
+		<minLevel>17</minLevel>
+		<addLife>0</addLife>
+		<addMagic>12</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>180</id>
+		<name>כובע אינדי</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>300</buyPrice>
+		<sellPrice>30</sellPrice>
+		<minLevel>5</minLevel>
+		<addLife>5</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>190</id>
+		<name>כובע מכשף</name>
+		<desc>פריט לבוש לראש</desc>
+		<type>1</type>
+		<buyPrice>2250</buyPrice>
+		<sellPrice>225</sellPrice>
+		<minLevel>11</minLevel>
+		<addLife>0</addLife>
+		<addMagic>7</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>	
+	
+	
+	<itemBase>
+		<id>200</id>
+		<name>גלימת בד</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>			
+	</itemBase>
+	<itemBase>
+		<id>210</id>
+		<name>גלימה רקומה</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>220</id>
+		<name>גלימת ערפד</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>50</buyPrice>
+		<sellPrice>5</sellPrice>
+		<minLevel>3</minLevel>
+		<addLife>5</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>			
+	</itemBase>
+	<itemBase>
+		<id>230</id>
+		<name>גלימת כוכבים</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>240</id>
+		<name>גלימת עוף השמיים</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>7000</buyPrice>
+		<sellPrice>700</sellPrice>
+		<minLevel>15</minLevel>
+		<addLife>10</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>250</id>
+		<name>גלימת כנפי עטלף</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>2250</buyPrice>
+		<sellPrice>225</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>7</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>260</id>
+		<name>גלימה מלאה</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>600</buyPrice>
+		<sellPrice>60</sellPrice>
+		<minLevel>7</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>2</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>270</id>
+		<name>גלימת ברדס</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>300</buyPrice>
+		<sellPrice>30</sellPrice>
+		<minLevel>5</minLevel>
+		<addLife>2</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>1</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>280</id>
+		<name>גלימת קוסם</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>4000</buyPrice>
+		<sellPrice>400</sellPrice>
+		<minLevel>13</minLevel>
+		<addLife>3</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>3</addRoundRegeneration>	
+	</itemBase>
+	
+	
+	<itemBase>
+		<id>290</id>
+		<name>גלימת מכשף</name>
+		<desc>פריט לבוש לכתפיים</desc>
+		<type>2</type>
+		<buyPrice>16000</buyPrice>
+		<sellPrice>1600</sellPrice>
+		<minLevel>19</minLevel>
+		<addLife>5</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>5</addRoundRegeneration>	
+	</itemBase>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<itemBase>
+		<id>300</id>
+		<name>חגורת אבזם</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	<itemBase>
+		<id>310</id>
+		<name>חגורת אבן חן</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>750</buyPrice>
+		<sellPrice>70</sellPrice>
+		<minLevel>8</minLevel>
+		<addLife>5</addLife>
+		<addMagic>5</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>320</id>
+		<name>חגרות ברזל</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>200</buyPrice>
+		<sellPrice>20</sellPrice>
+		<minLevel>4</minLevel>
+		<addLife>0</addLife>
+		<addMagic>5</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	<itemBase>
+		<id>330</id>
+		<name>חגורת בד</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>340</id>
+		<name>חבל נזיר</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>0</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	
+	<itemBase>
+		<id>350</id>
+		<name>חגורת פרשים</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>8000</buyPrice>
+		<sellPrice>800</sellPrice>
+		<minLevel>16</minLevel>
+		<addLife>8</addLife>
+		<addMagic>8</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>360</id>
+		<name>חגורת סרט</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>4000</buyPrice>
+		<sellPrice>400</sellPrice>
+		<minLevel>13</minLevel>
+		<addLife>0</addLife>
+		<addMagic>12</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>370</id>
+		<name>חגורת סארונג</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>12000</buyPrice>
+		<sellPrice>1200</sellPrice>
+		<minLevel>18</minLevel>
+		<addLife>0</addLife>
+		<addMagic>15</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>380</id>
+		<name>חגורה יוונית</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>400</buyPrice>
+		<sellPrice>40</sellPrice>
+		<minLevel>6</minLevel>
+		<addLife>0</addLife>
+		<addMagic>7</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>		
+	<itemBase>
+		<id>390</id>
+		<base>390</base>
+		<name>חגורת עוף השמיים</name>
+		<desc>פריט לבוש למותניים</desc>
+		<type>3</type>
+		<buyPrice>1500</buyPrice>
+		<sellPrice>150</sellPrice>
+		<minLevel>10</minLevel>
+		<addLife>0</addLife>
+		<addMagic>10</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	
+	
+	
+	
+	
+	
+	<itemBase>
+		<id>400</id>
+		<name>נעליים פשוטות</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>		
+	</itemBase>
+	<itemBase>
+		<id>410</id>
+		<name>מגפי ברזל</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>420</id>
+		<name>נעלי מוקסינים</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>4500</buyPrice>
+		<sellPrice>450</sellPrice>
+		<minLevel>14</minLevel>
+		<addLife>10</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>	
+	<itemBase>
+		<id>430</id>
+		<name>נעל אינדיאנית</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>440</id>
+		<name>נעל יוונית</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>200</buyPrice>
+		<sellPrice>20</sellPrice>
+		<minLevel>4</minLevel>
+		<addLife>3</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	
+	<itemBase>
+		<id>450</id>
+		<name>מגפי אבירים</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>1250</buyPrice>
+		<sellPrice>125</sellPrice>
+		<minLevel>9</minLevel>
+		<addLife>7</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>460</id>
+		<name>סנדלי ברזל</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>2500</buyPrice>
+		<sellPrice>250</sellPrice>
+		<minLevel>12</minLevel>
+		<addLife>3</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>2</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>470</id>
+		<name>סנדלי עץ</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>600</buyPrice>
+		<sellPrice>60</sellPrice>
+		<minLevel>7</minLevel>
+		<addLife>5</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>480</id>
+		<name>מגפי קוסם</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>17000</buyPrice>
+		<sellPrice>1700</sellPrice>
+		<minLevel>20</minLevel>
+		<addLife>12</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>	
+	</itemBase>
+	<itemBase>
+		<id>490</id>
+		<name>מגפי פרשים</name>
+		<desc>פריט לבוש לרגליים</desc>
+		<type>4</type>
+		<buyPrice>11000</buyPrice>
+		<sellPrice>1100</sellPrice>
+		<minLevel>17</minLevel>
+		<addLife>7</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>4</addRoundRegeneration>	
+	</itemBase>
+	
+	
+	
+	<itemBase>
+		<id>500</id>
+		<name>מטה פשוט</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>1</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>1</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>510</id>
+		<name>מטה כסוף</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>2000</buyPrice>
+		<sellPrice>200</sellPrice>
+		<minLevel>10</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>7</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>520</id>
+		<name>מטה נחש הקוברה</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>3500</buyPrice>
+		<sellPrice>350</sellPrice>
+		<minLevel>12</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>10</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>530</id>
+		<name>מטה כוכב</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>100</buyPrice>
+		<sellPrice>10</sellPrice>
+		<minLevel>3</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>3</addRoundRegeneration>
+	</itemBase>	
+	<itemBase>
+		<id>540</id>
+		<name>מטה ורד</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>1000</buyPrice>
+		<sellPrice>100</sellPrice>
+		<minLevel>8</minLevel>
+		<addLife>2</addLife>
+		<addMagic>2</addMagic>
+		<addRoundRegeneration>3</addRoundRegeneration>
+	</itemBase>		
+	
+	<itemBase>
+		<id>550</id>
+		<name>מטה שאמאן</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>20000</buyPrice>
+		<sellPrice>2000</sellPrice>
+		<minLevel>20</minLevel>
+		<addLife>5</addLife>
+		<addMagic>5</addMagic>
+		<addRoundRegeneration>10</addRoundRegeneration>
+	</itemBase>	
+	<itemBase>
+		<id>560</id>
+		<name>מטה שמש</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>15000</buyPrice>
+		<sellPrice>1500</sellPrice>
+		<minLevel>18</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>15</addRoundRegeneration>
+	</itemBase>	
+	<itemBase>
+		<id>570</id>
+		<name>מטה ירח</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>10000</buyPrice>
+		<sellPrice>1000</sellPrice>
+		<minLevel>16</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>12</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>580</id>
+		<name>מטה נובה</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>6000</buyPrice>
+		<sellPrice>600</sellPrice>
+		<minLevel>14</minLevel>
+		<addLife>3</addLife>
+		<addMagic>3</addMagic>
+		<addRoundRegeneration>7</addRoundRegeneration>
+	</itemBase>	
+	<itemBase>
+		<id>590</id>
+		<name>מטה קוסם</name>
+		<desc>אביזר לכישוף</desc>
+		<type>5</type>
+		<buyPrice>500</buyPrice>
+		<sellPrice>5</sellPrice>
+		<minLevel>6</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>5</addRoundRegeneration>
+	</itemBase>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<itemBase>
+		<id>600</id>
+		<name>שיער</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>	
+	<itemBase>
+		<id>610</id>
+		<name>שיער ארוך</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>620</id>
+		<name>שיער פנקיסט</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>630</id>
+		<name>שיער פלומה</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	
+	<itemBase>
+		<id>640</id>
+		<name>פאות</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>650</id>
+		<name>שיער מוהוק</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>660</id>
+		<name>שיער רוסי</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>670</id>
+		<name>שיער דקסטר</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>6</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+		
+	
+	
+	
+	<itemBase>
+		<id>700</id>
+		<name>עיניים</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>7</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+	<itemBase>
+		<id>800</id>
+		<name>חיתול</name>
+		<desc>פרט לבוש בסיסי</desc>
+		<type>8</type>
+		<buyPrice>0</buyPrice>
+		<sellPrice>0</sellPrice>
+		<minLevel>100</minLevel>
+		<addLife>0</addLife>
+		<addMagic>0</addMagic>
+		<addRoundRegeneration>0</addRoundRegeneration>
+	</itemBase>
+</itemsBase>

@@ -1,0 +1,29 @@
+﻿<surprises>
+	<!-- types: 1-move 2-enemy 3-bad prize 4-good prize-->
+	<surprise>
+		<id>1</id>
+		<name>החלף מקום</name>
+		<desc>נתקלת בפורטל קסמים שיעביר אותך למקום אחר במבוך</desc>
+		<type>1</type>
+	</surprise>
+	<surprise>
+		<id>2</id>
+		<name>אויב</name>
+		<desc>נתקלת באויב</desc>
+		<type>2</type>
+	</surprise>
+	<surprise>
+		<id>3</id>
+		<name>גנב</name>
+		<desc>בזמן שישנת בא גנב ולקח לך במבה</desc>
+		<type>3</type>
+		<prizesIds>100</prizesIds>
+	</surprise>
+	<surprise>
+		<id>4</id>
+		<name>אוצר</name>
+		<desc>מצאת אוצר</desc>
+		<type>4</type>
+		<prizesIds>2</prizesIds>
+	</surprise>
+</surprises>

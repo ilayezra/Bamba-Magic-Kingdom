@@ -1,0 +1,1044 @@
+﻿<magicBook>	
+	<magic>
+		<id>1</id>
+		<name>עשן שחור</name>
+		<desc>"אין עשן בלי אש" (אמרה עממית)</desc>
+		<graphicsName>pic11</graphicsName>
+		<order>1</order>
+		<firstCard>100</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>1</color>
+		<attackString>110010110</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>fire1</magicAnimName>
+		<animLength>3.2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE1</sound>	
+	</magic>
+	<magic>
+		<id>2</id>
+		<name>כדור אש</name>
+		<desc>"החלק הקשה ביותר הוא לגרום לאש להשאר בצורת כדור" (מתוך מבוא לקוסמות)</desc>
+		<graphicsName>pic12</graphicsName>
+		<order>1</order>
+		<firstCard>105</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>1</color>
+		<attackString>000111000</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>fire2</magicAnimName>
+		<animLength>1.85</animLength>
+		<sound>FIRE2</sound>
+	</magic>
+	<magic>
+		<id>3</id>
+		<name>קרן שמש</name>
+		<desc>"מי יוכל לכוחה האדיר של השמש?" (מתוך יומני הקוסם גרנדל)</desc>
+		<graphicsName>pic13</graphicsName>
+		<order>1</order>
+		<firstCard>110</firstCard>
+		<cost>50</cost>
+		<minLevel>2</minLevel>
+		<color>1</color>
+		<attackString>000000111</attackString>	
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>fire3</magicAnimName>
+		<animLength>3.5</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE3</sound>
+	</magic>
+	<magic>
+		<id>4</id>
+		<name>רוח חמה</name>
+		<desc>"הטעות הנפוצה ביותר היא לחשוב שרוח זה דבר קר" (מתוך מבוא לקוסמות חלק ב')</desc>
+		<graphicsName>pic14</graphicsName>
+		<order>1</order>
+		<firstCard>115</firstCard>
+		<cost>250</cost>
+		<minLevel>4</minLevel>
+		<color>1</color>
+		<attackString>101010101</attackString>
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>fire4</magicAnimName>
+		<animLength>4.1</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE4</sound>
+	</magic>	
+	<magic>
+		<id>5</id>
+		<name>חומת אש</name>
+		<desc>"איש לא יצליח לטפס על החומה הזאת" (מתוך הרצאה)</desc>
+		<graphicsName>pic15</graphicsName>
+		<order>1</order>
+		<firstCard>120</firstCard>
+		<cost>1000</cost>
+		<minLevel>6</minLevel>
+		<color>1</color>
+		<attackString>000110011</attackString>
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>fire5</magicAnimName>
+		<animLength>3.35</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>FIRE5</sound>		
+	</magic>
+	<magic>
+		<id>6</id>
+		<name>מטאור</name>
+		<desc>"אש יכולה להגיע מכל מקום, אפילו מהחלל" (מתוך המדריך הקצר לאש, מהדורה מורחבת)</desc>
+		<graphicsName>pic16</graphicsName>
+		<order>1</order>
+		<firstCard>125</firstCard>
+		<cost>2500</cost>
+		<minLevel>8</minLevel>
+		<color>1</color>
+		<attackString>100010001</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>fire6</magicAnimName>
+		<animLength>2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE6</sound>
+	</magic>
+	<magic>
+		<id>7</id>
+		<name>חרקי האש</name>
+		<desc>"כבר בימי הקדם השתמשו בחרקים האלה כדי להאיר את הבית בלילה" (מתוך ההיטוריה של הקוסמות, כרך ט')</desc>
+		<graphicsName>pic17</graphicsName>
+		<order>1</order>
+		<firstCard>130</firstCard>
+		<cost>4000</cost>
+		<minLevel>10</minLevel>
+		<color>1</color>	
+		<attackString>101000101</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>fire7</magicAnimName>
+		<animLength>3.35</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE7</sound>		
+	</magic>
+	<magic>
+		<id>8</id>
+		<name>מטר אש</name>
+		<desc>"לא אחד ולא חמישה - גשם אדיר של מטאורים יירד על ראשכם" (מתוך רישומי מלחמות המכשפים)</desc>
+		<graphicsName>pic18</graphicsName>
+		<order>1</order>
+		<firstCard>135</firstCard>
+		<cost>8000</cost>
+		<minLevel>12</minLevel>
+		<color>1</color>	
+		<attackString>000011011</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>fire8</magicAnimName>
+		<animLength>3</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE8</sound>		
+	</magic>
+	<magic>
+		<id>9</id>
+		<name>הר געש</name>
+		<desc>"האש נמצאת גם במקומות שאיש לא חושב עליהם, ואפילו מתחת לרגלינו" (מתוך מבוא לקוסמות, חלק ג')</desc>
+		<graphicsName>pic19</graphicsName>
+		<order>1</order>
+		<firstCard>140</firstCard>
+		<cost>15000</cost>
+		<minLevel>15</minLevel>
+		<color>1</color>
+		<attackString>101010010</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>fire9</magicAnimName>
+		<animLength>3.2</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>FIRE9</sound>		
+	</magic>
+	<magic>
+		<id>10</id>
+		<name>סופר נובה</name>
+		<desc>"חשב את הסיכוי של פרפר לעמוד בסופר נובה" (מתוך מבחן מסכם לקוסמות)</desc>
+		<graphicsName>pic110</graphicsName>
+		<order>1</order>
+		<firstCard>145</firstCard>
+		<cost>30000</cost>
+		<minLevel>18</minLevel>
+		<color>1</color>	
+		<attackString>011010011</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>fire10</magicAnimName>
+		<animLength>2.85</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>FIRE10</sound>		
+	</magic>		
+	<magic>
+		<id>31</id>
+		<name>פתיתי שלג</name>
+		<desc>"פתיתי השלג מקפיאים, הם קרים והם קרים" (שיר ילדים)</desc>
+		<graphicsName>pic21</graphicsName>
+		<order>2</order>
+		<firstCard>200</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>2</color>
+		<attackString>000101111</attackString>	
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>ice1</magicAnimName>
+		<animLength>3.2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE1</sound>
+	</magic>
+	<magic>
+		<id>32</id>
+		<name>כדור קרח</name>
+		<desc>"הסוד הוא ללבוש כפפות עבות" (מתוך המבוא לקוסמות)</desc>
+		<graphicsName>pic22</graphicsName>
+		<order>2</order>
+		<firstCard>205</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>2</color>
+		<attackString>111000000</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>ice2</magicAnimName>
+		<animLength>2.35</animLength>	
+		<sound>ICE2</sound>		
+	</magic>	
+	<magic>
+		<id>33</id>
+		<name>ברד</name>
+		<desc>"תזכורת - לא לשכוח קסדה" (מתוך יומנו של הקוסם גרנדל)</desc>
+		<graphicsName>pic23</graphicsName>
+		<order>2</order>
+		<firstCard>210</firstCard>
+		<cost>50</cost>
+		<minLevel>2</minLevel>
+		<color>2</color>
+		<attackString>000101010</attackString>	
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>ice3</magicAnimName>
+		<animLength>2.75</animLength>	
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE3</sound>
+	</magic>
+	<magic>
+		<id>34</id>
+		<name>חרקרח</name>
+		<desc>"וכנראה שאז נכנס בטעות יתוש לתוך המקרר של השיקויים..." (מתוך מכתב הסבר למנהל)</desc>
+		<graphicsName>pic24</graphicsName>
+		<order>2</order>
+		<firstCard>215</firstCard>
+		<cost>250</cost>
+		<minLevel>4</minLevel>
+		<color>2</color>	
+		<attackString>101010101</attackString>	
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>ice4</magicAnimName>
+		<animLength>4.35</animLength>
+		<magicAnimDepth>1</magicAnimDepth>	
+		<sound>ICE4</sound>		
+	</magic>
+	<magic>
+		<id>35</id>
+		<name>חצי קרח</name>
+		<desc>"זה קר, זה קטן , זה דוקר, זה נפלא" (מתוך מלחמות המכשפים, כרך ל')</desc>
+		<graphicsName>pic25</graphicsName>
+		<order>2</order>
+		<firstCard>220</firstCard>
+		<cost>1000</cost>
+		<minLevel>6</minLevel>
+		<color>2</color>
+		<attackString>110000011</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>ice5</magicAnimName>
+		<animLength>2.2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE5</sound>
+	</magic>
+	<magic>
+		<id>36</id>
+		<name>רוח קרה</name>
+		<desc>"בנוסף, קסם זה פשוט מצויין בימים החמים של הקיץ" (מתוך מבוא לקוסמות, כרך ד')</desc>
+		<graphicsName>pic26</graphicsName>
+		<order>2</order>
+		<firstCard>225</firstCard>
+		<cost>2500</cost>
+		<minLevel>8</minLevel>
+		<color>2</color>
+		<attackString>001010001</attackString>		
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>ice6</magicAnimName>
+		<animLength>2.75</animLength>
+		<sound>ICE6</sound>		
+	</magic>	
+	<magic>
+		<id>37</id>
+		<name>חומת קרח</name>
+		<desc>"זה היה הדבר המרשים ביותר שראיתי בחיי" (מתוך יומני מסעות גולגיבל)</desc>
+		<graphicsName>pic27</graphicsName>
+		<order>2</order>
+		<firstCard>230</firstCard>
+		<cost>4000</cost>
+		<minLevel>10</minLevel>
+		<color>2</color>	
+		<attackString>000110011</attackString>
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>ice7</magicAnimName>
+		<animLength>3.35</animLength>
+		<magicAnimDepth>2</magicAnimDepth>			
+		<sound>ICE7</sound>		
+	</magic>
+	<magic>
+		<id>38</id>
+		<name>נחל קפוא</name>
+		<desc>"בפעם האחרונה - אל תנסו ללכת על הנחל, אלא בחורף" (מתוך שלט אזהרה)</desc>
+		<graphicsName>pic28</graphicsName>
+		<order>2</order>
+		<firstCard>235</firstCard>
+		<cost>8000</cost>
+		<minLevel>12</minLevel>
+		<color>2</color>	
+		<attackString>000010111</attackString>	
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>ice8</magicAnimName>
+		<animLength>4.15</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE8</sound>	
+		<fixedLocation>770,335</fixedLocation>			
+	</magic>
+	<magic>
+		<id>39</id>
+		<name>כידון קרח</name>
+		<desc>"מה זה משנה נטיף או זקיף? העיקר שהוא עף לצדדים" (מתוך הרצאה למתקדמים)</desc>
+		<graphicsName>pic29</graphicsName>
+		<order>2</order>
+		<firstCard>240</firstCard>
+		<cost>15000</cost>
+		<minLevel>15</minLevel>
+		<color>2</color>	
+		<attackString>001110001</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>ice9</magicAnimName>
+		<animLength>2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE9</sound>		
+	</magic>		
+	<magic>
+		<id>40</id>
+		<name>מפולת</name>
+		<desc>"יש רק דבר אחד שאתה יכול לעשות מול מפולת שלגים - לא להיות שם" (מתוך מבוא לקוסמות, כרך ל')</desc>
+		<graphicsName>pic210</graphicsName>
+		<order>2</order>
+		<firstCard>245</firstCard>
+		<cost>30000</cost>
+		<minLevel>18</minLevel>
+		<color>2</color>	
+		<attackString>000101111</attackString>
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>ice10</magicAnimName>
+		<animLength>3.25</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ICE10</sound>		
+		
+	</magic>	
+	<magic>
+		<id>51</id>
+		<name>צמח מטפס</name>
+		<desc>"אסור לנו לזלזל בעוצמה של הצומח" (מתוך מבוא לקוסמות)</desc>
+		<graphicsName>pic31</graphicsName>
+		<order>3</order>
+		<firstCard>300</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>3</color>
+		<attackString>111101000</attackString>		
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>nature1</magicAnimName>
+		<animLength>2.85</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>NATURE1</sound>	
+	</magic>
+	<magic>
+		<id>52</id>
+		<name>בוץ רותח</name>
+		<desc>"זה רק בוץ, זה לא מזיק" (מתוך משפטים אחרונים של קוסמים לא זהירים)</desc>
+		<graphicsName>pic32</graphicsName>
+		<order>3</order>
+		<firstCard>305</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>3</color>
+		<attackString>000000111</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature2</magicAnimName>
+		<animLength>3.5</animLength>
+		<magicAnimDepth>2</magicAnimDepth>	
+		<sound>NATURE2</sound>	
+	</magic>
+	<magic>
+		<id>53</id>
+		<name>בלוטים</name>
+		<desc>"במקור קסם זה נועד כדי ללכוד סנאים" (מתוך ההיסטוריה של הקוסמות, כרך י')</desc>
+		<graphicsName>pic33</graphicsName>
+		<order>3</order>
+		<firstCard>310</firstCard>
+		<cost>50</cost>
+		<minLevel>2</minLevel>
+		<color>3</color>
+		<attackString>000101010</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature3</magicAnimName>
+		<animLength>2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>NATURE3</sound>		
+	</magic>
+	<magic>
+		<id>54</id>
+		<name>דבורים</name>
+		<desc>"בזזז! בזז! בזזזז!" (מתוך משפטי חרקים מפורסמים)</desc>
+		<graphicsName>pic34</graphicsName>
+		<order>3</order>
+		<firstCard>315</firstCard>
+		<cost>250</cost>
+		<minLevel>4</minLevel>
+		<color>3</color>
+		<attackString>101010101</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature4</magicAnimName>
+		<animLength>3.65</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>NATURE4</sound>	
+	</magic>
+	<magic>
+		<id>55</id>
+		<name>קיר קוצים</name>
+		<desc>"על כל קוץ שנפל - צמחו עשרה חדשים" (מתוך יומני מסעות גולגיבל)</desc>
+		<graphicsName>pic35</graphicsName>
+		<order>3</order>
+		<firstCard>320</firstCard>
+		<cost>1000</cost>
+		<minLevel>6</minLevel>
+		<color>3</color>
+		<attackString>000011011</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>nature5</magicAnimName>
+		<animLength>3.2</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>NATURE5</sound>
+	</magic>
+	<magic>
+		<id>56</id>
+		<name>מכת ברק</name>
+		<desc>"לא מומלץ להסתובב בשריון ברזל כשיורד גשם" (מתוך עצות לאביר מתחיל)</desc>
+		<graphicsName>pic36</graphicsName>
+		<order>3</order>
+		<firstCard>325</firstCard>
+		<cost>2500</cost>
+		<minLevel>8</minLevel>
+		<color>3</color>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature6</magicAnimName>
+		<animLength>3.25</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<attackString>010010010</attackString>
+		<sound>NATURE6</sound>		
+	</magic>
+	<magic>
+		<id>57</id>
+		<name>סופת גשם</name>
+		<desc>"גשם גשם משמים, כל המון טיפות המים" (שיר ילדים)</desc>
+		<graphicsName>pic37</graphicsName>
+		<order>3</order>
+		<firstCard>330</firstCard>
+		<cost>4000</cost>
+		<minLevel>10</minLevel>
+		<color>3</color>
+		<attackString>000101101</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature7</magicAnimName>
+		<animLength>3.25</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>NATURE7</sound>			
+	</magic>
+	<magic>
+		<id>58</id>
+		<name>בקע באדמה</name>
+		<desc>"ואז האדמה עצמה פערה את פיה..." (מתוך יומני הקוסם גרנדל)</desc>
+		<graphicsName>pic38</graphicsName>
+		<order>3</order>
+		<firstCard>335</firstCard>
+		<cost>8000</cost>
+		<minLevel>12</minLevel>
+		<color>3</color>
+		<attackString>000100111</attackString>
+		<ponAnimName>attack2</ponAnimName>
+		<magicAnimName>nature8</magicAnimName>
+		<animLength>3.45</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>NATURE8</sound>			
+	</magic>
+	<magic>
+		<id>59</id>
+		<name>טורנאדו</name>
+		<desc>"טוטו, אני חושבת שאנחנו כבר לא בקנזס יותר" (מתוך אמרות מפורסמות)</desc>
+		<graphicsName>pic39</graphicsName>
+		<order>3</order>
+		<firstCard>340</firstCard>
+		<cost>15000</cost>
+		<minLevel>15</minLevel>
+		<color>3</color>
+		<attackString>101001010</attackString>
+		<ponAnimName>attack3</ponAnimName>
+		<magicAnimName>nature9</magicAnimName>
+		<animLength>4.25</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>NATURE9</sound>			
+	</magic>		
+	<magic>
+		<id>60</id>
+		<name>צונאמי</name>
+		<desc>"מים הם הדבר הכי קשה שקיים בטבע. נקודה." (מתוך הרצאות למתקדמים)</desc>
+		<graphicsName>pic310</graphicsName>
+		<order>3</order>
+		<firstCard>345</firstCard>
+		<cost>30000</cost>
+		<minLevel>18</minLevel>
+		<color>3</color>
+		<attackString>011010110</attackString>
+		<ponAnimName>attack1</ponAnimName>
+		<magicAnimName>nature10</magicAnimName>
+		<animLength>3.2</animLength>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>NATURE10</sound>	
+		<fixedLocation>770,335</fixedLocation>		
+	</magic>	
+	<magic>
+		<id>80</id>
+		<name>חידוש קסם</name>
+		<desc>"את אנרגיית הקסם ניתן לשאוב מהעולם עצמו" (מתוך מבוא לקוסמות, הקדמה)</desc>
+		<graphicsName>regen</graphicsName>
+		<order>4</order>
+		<firstCard>10</firstCard>
+		<cost>0</cost>
+		<minLevel>1</minLevel>
+		<color>4</color>	
+		<ponAnimName>regen</ponAnimName>			
+		<animLength>1.2</animLength>		
+	</magic>	
+	<magic>
+		<id>81</id>
+		<name>ריפוי</name>
+		<desc>"אני קורא לכוחות הקסם לרפא אותי מכל חולי!" (מתוך לחשי הריפוי)</desc>
+		<graphicsName>heal</graphicsName>
+		<order>4</order>
+		<firstCard>20</firstCard>
+		<cost>4000</cost>
+		<minLevel>10</minLevel>
+		<color>4</color>
+		<ponAnimName>heal</ponAnimName>			
+		<animLength>1.2</animLength>		
+	</magic>
+	<magic>
+		<id>500</id>
+		<name>התקפה אויב איש אבן 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>מפולת</desc>		
+		<attackString>000101111</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.25</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<magicAnimName>attack01</magicAnimName>
+		<sound>ENEMY1_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>501</id>		
+		<name>התקפה אוייב איש אבן 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>אגרוף</desc>		
+		<attackString>001010001</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.33</animLength>		
+		<sound>ENEMY1_MAGIC2</sound>		
+	</magic>
+	<magic>
+		<id>510</id>		
+		<desc>לשון</desc>		
+		<attackString>000111000</attackString>
+		<graphicsName>picenemy2</graphicsName>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>1.2</animLength>
+		<sound>ENEMY2_MAGIC1</sound>	
+	</magic>
+	<magic>
+		<id>511</id>
+		<name>התקפת אוייב צמח טורף 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>נשיכה</desc>		
+		<attackString>011011000</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>1.2</animLength>
+		<sound>ENEMY2_MAGIC2</sound>			
+	</magic>		
+	<magic>
+		<id>520</id>
+		<name>התקפת אוייב ייטי 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>מכת שלג</desc>		
+		<attackString>011000011</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.3</animLength>
+		<magicAnimDepth>2</magicAnimDepth>
+		<magicAnimName>attack02</magicAnimName>
+		<sound>ENEMY3_MAGIC2</sound>			
+	</magic>
+	<magic>
+		<id>521</id>
+		<name>התקפת אוייב ייטי 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>נשיפה</desc>		
+		<attackString>000111000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.3</animLength>
+		<sound>ENEMY3_MAGIC1</sound>		
+	</magic>
+	<magic>
+		<id>530</id>
+		<name>התקפת דחליל 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>עורב</desc>		
+		<attackString>101000101</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2</animLength>
+		<magicAnimName>attack01</magicAnimName>	
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY4_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>531</id>
+		<name>התקפת דחליל 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>הפחדה</desc>		
+		<attackString>111000000</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2</animLength>
+		<magicAnimName>attack02</magicAnimName>	
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY4_MAGIC2</sound>
+	</magic>
+	<magic>
+		<id>540</id>
+		<name>התקפת עץ רשע 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>בלוט</desc>		
+		<attackString>001011010</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.3</animLength>
+		<magicAnimName>attack01</magicAnimName>	
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY5_MAGIC1</sound>		
+	</magic>
+	<magic>
+		<id>541</id>
+		<name>התקפת עץ רשע 2</name>
+		<graphicsName>picenemy2</graphicsName>		
+		<desc>ענף</desc>		
+		<attackString>001011000</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2</animLength>
+		<sound>ENEMY5_MAGIC2</sound>		
+	</magic>
+	<magic>	
+		<id>550</id>
+		<name>התקפת יתושת אם 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>עוקץ</desc>		
+		<attackString>000011001</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>1.7</animLength>
+		<sound>ENEMY6_MAGIC1</sound>
+	</magic>
+		<magic>
+		<id>551</id>
+		<name>התקפת יתושת אם 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>יתושונים</desc>		
+		<attackString>010011001</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>
+		<animLength>2.5</animLength>			
+		<magicAnimName>attack02</magicAnimName>			
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY6_MAGIC2</sound>	
+	</magic>
+	<magic>
+		<id>560</id>
+		<name>התקפת דרקון</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>יריקת אש</desc>		
+		<attackString>111000000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2</animLength>
+		<sound>ENEMY7_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>561</id>
+		<name>התקפת דרקון 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>מכת זנב</desc>		
+		<attackString>000001111</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>
+		<animLength>1.43</animLength>
+	    <sound>ENEMY7_MAGIC2</sound>		
+	</magic>
+	<magic>
+		<id>570</id>
+		<name>התקפת רוח רפאים</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>הפחדה</desc>		
+		<attackString>001010001</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>
+	    <sound>ENEMY8_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>571</id>
+		<name>התקפת רוח רפאים 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>רוחות</desc>		
+		<attackString>010101010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>			
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY8_MAGIC2</sound>
+	</magic>
+	<magic>
+		<id>572</id>
+		<name>התקפת רוח רפאים 2 מלך</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>רוחות</desc>		
+		<attackString>010101010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02b</magicAnimName>			
+		<magicAnimDepth>1</magicAnimDepth>
+	    <sound>ENEMY8_MAGIC2</sound>		
+	</magic>	
+	<magic>
+		<id>590</id>
+		<name>התקפה איש רפש 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>ריח רע</desc>		
+		<attackString>011010011</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY9_MAGIC1</sound>	
+	</magic>
+	<magic>
+		<id>591</id>		
+		<name>התקפה איש רפש 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>רפש</desc>		
+		<attackString>000111000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack01</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>		
+		<sound>ENEMY9_MAGIC2</sound>			
+	</magic>	
+	
+	<magic>
+		<id>600</id>		
+		<name>התקפת עקרב 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>זנב רעיל</desc>		
+		<attackString>100010001</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>1</magicAnimDepth>
+		<sound>ENEMY10_MAGIC2</sound>	
+	</magic>
+	<magic>
+		<id>601</id>
+		<name>התקפת עקרב 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>צבתות</desc>		
+		<attackString>011000011</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2</animLength>			
+		<sound>ENEMY10_MAGIC1</sound>
+	</magic>	
+	
+	<magic>
+		<id>610</id>
+		<name>התקפת קוקיגולת 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>קוקיה</desc>		
+		<attackString>000111000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY11_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>611</id>		
+		<name>התקפת קוקיגולת 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>דהירה</desc>		
+		<attackString>000001111</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>		
+		<sound>ENEMY11_MAGIC2</sound>		
+	</magic>
+	
+	
+	<magic>
+		<id>620</id>		
+		<name>התקפת קקטוס 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>סברס</desc>		
+		<attackString>000111000</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>				
+		<sound>ENEMY12_MAGIC2</sound>		
+	</magic>	
+	<magic>
+		<id>621</id>
+		<name>התקפת קקטוס 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>קוצים</desc>		
+		<attackString>010011010</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack01</magicAnimName>
+		<magicAnimDepth>1</magicAnimDepth>		
+		<sound>ENEMY12_MAGIC1</sound>
+	</magic>
+	
+	
+	<magic>
+		<id>630</id>		
+		<name>התקפת מומיה 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>ידיים</desc>		
+		<attackString>000000111</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.2</animLength>
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>			
+		<sound>ENEMY13_MAGIC2</sound>	
+	</magic>	
+	<magic>
+		<id>631</id>
+		<name>התקפת מומיה 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>הפחדה</desc>		
+		<attackString>001011001</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.55</animLength>			
+		<sound>ENEMY13_MAGIC1</sound>
+	</magic>
+	
+	
+	<magic>
+		<id>640</id>
+		<name>התקפת מלאך המוות 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>חרמש</desc>		
+		<attackString>001011110</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY14_MAGIC1</sound>
+	</magic>
+	<magic>	
+		<id>641</id>		
+		<name>התקפת מלאך המוות 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>שעון חול</desc>		
+		<attackString>010010010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY14_MAGIC2</sound>	
+	</magic>	
+	
+	
+	<magic>
+		<id>650</id>
+		<name>הטקפת טרול קריסטאלים 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>קריסטאלים</desc>		
+		<attackString>000010111</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.2</animLength>		
+		<magicAnimName>attack01</magicAnimName>
+		<magicAnimDepth>2.35</magicAnimDepth>
+		 <sound>ENEMY15_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>651</id>		
+		<name>התקפת טרול קריסטאלים 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>אגרוף</desc>		
+		<attackString>010001010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY15_MAGIC2</sound>
+	</magic>
+		
+	<magic>
+		<id>660</id>
+		<name>התקפת ג'יני 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>ברק</desc>		
+		<attackString>100010001</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>		
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>
+		<sound>ENEMY16_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>661</id>		
+		<name>התקפת ג'יני 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>ענן עשן</desc>		
+		<attackString>011100011</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack01</magicAnimName>
+		<magicAnimDepth>1</magicAnimDepth>		
+		<sound>ENEMY16_MAGIC2</sound>
+	</magic>
+		
+	<magic>
+		<id>670</id>
+		<name>התקפת עטלף ערפר 1</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>סונאר</desc>		
+		<attackString>111000000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY17_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>671</id>		
+		<name>התקפת עטלף ערפד 2</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>נשיכה</desc>		
+		<attackString>010101010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>		
+		<sound>ENEMY17_MAGIC2</sound>
+	</magic>
+	
+	
+	<magic>
+		<id>680</id>
+		<name>התקפת ביג פוט 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>נטיפים</desc>		
+		<attackString>111000000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY18_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>681</id>		
+		<name>התקפת ביג פוט 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>ברד</desc>		
+		<attackString>000010111</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>				
+		<sound>ENEMY18_MAGIC2</sound>
+	</magic>
+	
+	<magic>
+		<id>690</id>		
+		<name>התקפת קילופ 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>קפיצה</desc>		
+		<attackString>000101111</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack02</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>				
+		<sound>ENEMY19_MAGIC2</sound>
+	</magic>
+	<magic>
+		<id>691</id>
+		<name>התקפת קיקלופ 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>אבן</desc>		
+		<attackString>000111000</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY19_MAGIC1</sound>
+	</magic>
+	
+	
+			<magic>
+		<id>700</id>		
+		<name>התקפת קוף משוגע 1</name>
+		<graphicsName>picenemy1</graphicsName>
+		<desc>בננות</desc>		
+		<attackString>001111001</attackString>
+		<color>5</color>
+		<ponAnimName>magic1</ponAnimName>			
+		<animLength>2.35</animLength>
+		<magicAnimName>attack01</magicAnimName>
+		<magicAnimDepth>2</magicAnimDepth>				
+		<sound>ENEMY20_MAGIC1</sound>
+	</magic>
+	<magic>
+		<id>701</id>
+		<name>התקפת קוף משוגע 2</name>
+		<graphicsName>picenemy2</graphicsName>
+		<desc>צרחה</desc>		
+		<attackString>010010010</attackString>
+		<color>5</color>
+		<ponAnimName>magic2</ponAnimName>			
+		<animLength>2.35</animLength>			
+		<sound>ENEMY20_MAGIC2</sound>
+	</magic>
+</magicBook>

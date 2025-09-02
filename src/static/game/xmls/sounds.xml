@@ -1,0 +1,153 @@
+<sounds>
+	<gameSounds>
+	
+		<MAP_MUSIC>map_music.mp3</MAP_MUSIC>
+	
+		<GENERAL_MENU_CLICK>general_menu_click.mp3</GENERAL_MENU_CLICK>
+		
+		<GENERAL_MENU_SLIDE_IN>menu in.mp3</GENERAL_MENU_SLIDE_IN>
+		<GENERAL_MENU_SLIDE_OUT>menu out.mp3</GENERAL_MENU_SLIDE_OUT>
+		<GENERAL_UNAVIALABLE>general_unavailable.mp3</GENERAL_UNAVIALABLE>
+		<GENERAL_WARNING>general_warning.mp3</GENERAL_WARNING>		
+		
+		<TOWER_MUSIC>tower_music.mp3</TOWER_MUSIC>	
+
+		<TOWER_NEW_QUEST>tower_new_quest.mp3</TOWER_NEW_QUEST>
+		<TOWER_QUEST_TAKEN>tower_quest_taken.mp3</TOWER_QUEST_TAKEN>
+
+		<GENERAL_EQUIP>general_equip.mp3</GENERAL_EQUIP>
+		<TOWER_MAGIC_BUY>tower_magic_buy.mp3</TOWER_MAGIC_BUY>
+		<TOWER_MAGIC_UPGRADE>tower_magic_upgrade.mp3</TOWER_MAGIC_UPGRADE>
+		<TOWER_TO_MAP>tower_2map.mp3</TOWER_TO_MAP>
+		<TOWER_BACK>tower_back.mp3</TOWER_BACK>	
+		<STORE_PAYMENT>tower_payment.mp3</STORE_PAYMENT>		
+
+		<TOWER_CRYSTAL_MUSIC>tower_crystal_amb.mp3</TOWER_CRYSTAL_MUSIC>	
+		<TOWER_STORE_MUSIC>tower_store_amb.mp3</TOWER_STORE_MUSIC>	
+		<TOWER_BOOK_MUSIC>tower_book_amb.mp3</TOWER_BOOK_MUSIC>				
+		<TOWER_ALCHEMY_MUSIC>tower_alchemy_amb.mp3</TOWER_ALCHEMY_MUSIC>					
+		
+		<MAP_MOVEMENT>map_movement.mp3</MAP_MOVEMENT>
+		<MAP_REVEAL>map_reveal.mp3</MAP_REVEAL>
+		<MAP_TO_MAZE>map_2maze.mp3</MAP_TO_MAZE>
+		
+		<MAZE_CUBE>maze_cube.mp3</MAZE_CUBE>
+		<MAZE_ROLL_AGAIN>maze_roll_again.mp3</MAZE_ROLL_AGAIN>
+		<MAZE_ROLL_ONE_LESS>maze_roll_one_less.mp3</MAZE_ROLL_ONE_LESS>
+		<MAZE_ROLL_ONE_MORE>maze_roll_one_more.mp3</MAZE_ROLL_ONE_MORE>
+		<MAZE_MOVEMENT>maze_tile_move.mp3</MAZE_MOVEMENT>
+		<MAZE_SURPRIZE>maze_surprise.mp3</MAZE_SURPRIZE>
+		<MAZE_TREASURE>maze_treasure.mp3</MAZE_TREASURE>
+		<MAZE_SHORTCUT>maze_shortcut.mp3</MAZE_SHORTCUT>		
+		<MAZE_BATTLE>maze_2battle.mp3</MAZE_BATTLE>			
+		<MAZE_QUEST_WIN>maze_quest_win.mp3</MAZE_QUEST_WIN>
+		<GENERAL_LEVEL_UP>general_level_up.mp3</GENERAL_LEVEL_UP>	
+
+		<BATTLE_CARD_PICK>battle_card_pick.mp3</BATTLE_CARD_PICK>
+		<BATTLE_CARD_FLIP>battle_card_flip.mp3</BATTLE_CARD_FLIP>				
+		<BATTLE_ENEMY_MOVE>battle_enemy_move.mp3</BATTLE_ENEMY_MOVE>
+		<BATTLE_HERO_MOVE>battle_hero_move.mp3</BATTLE_HERO_MOVE>		
+		<BATTLE_BEEN_HIT>battle_been_hit.mp3</BATTLE_BEEN_HIT>
+		<BATTLE_BEEN_HIT_ENEMY>battle_been_hit_enemy.mp3</BATTLE_BEEN_HIT_ENEMY>
+		<BATTLE_BLOCK_ON>battle_block_on.mp3</BATTLE_BLOCK_ON>		
+		<BATTLE_BLOCK_OFF>battle_block_off.mp3</BATTLE_BLOCK_OFF>		
+		<BATTLE_BLOCK_MID>battle_block_mid.mp3</BATTLE_BLOCK_MID>		
+		<BATTLE_REGEN>battle_regen.mp3</BATTLE_REGEN>
+		<BATTLE_REGEN_ENEMY>battle_regen_Enemy.mp3</BATTLE_REGEN_ENEMY>
+				
+		<FIRE1>fire1.mp3</FIRE1>
+		<FIRE2>fire2.mp3</FIRE2>
+		<FIRE3>fire3.mp3</FIRE3>
+		<FIRE4>fire4.mp3</FIRE4>
+		<FIRE5>fire5.mp3</FIRE5>
+		<FIRE6>fire6.mp3</FIRE6>
+		<FIRE7>fire7.mp3</FIRE7>
+		<FIRE8>fire8.mp3</FIRE8>
+		<FIRE9>fire9.mp3</FIRE9>
+		<FIRE10>fire10.mp3</FIRE10>
+		
+		<ICE1>ice1.mp3</ICE1>
+		<ICE2>ice2.mp3</ICE2>
+		<ICE3>ice3.mp3</ICE3>
+		<ICE4>ice4.mp3</ICE4>
+		<ICE5>ice5.mp3</ICE5>
+		<ICE6>ice6.mp3</ICE6>
+		<ICE7>ice7.mp3</ICE7>
+		<ICE8>ice8.mp3</ICE8>
+		<ICE9>ice9.mp3</ICE9>
+		<ICE10>ice10.mp3</ICE10>
+		
+		<NATURE1>nature1.mp3</NATURE1>
+		<NATURE2>nature2.mp3</NATURE2>
+		<NATURE3>nature3.mp3</NATURE3>
+		<NATURE4>nature4.mp3</NATURE4>
+		<NATURE5>nature5.mp3</NATURE5>
+		<NATURE6>nature6.mp3</NATURE6>
+		<NATURE7>nature7.mp3</NATURE7>
+		<NATURE8>nature8.mp3</NATURE8>
+		<NATURE9>nature9.mp3</NATURE9>
+		<NATURE10>nature10.mp3</NATURE10>	
+				
+		<ENEMY1_MAGIC1>stoneman_magic1.mp3</ENEMY1_MAGIC1>
+		<ENEMY1_MAGIC2>stoneman_magic2.mp3</ENEMY1_MAGIC2>
+		<ENEMY2_MAGIC1>plant_magic2.mp3</ENEMY2_MAGIC1>
+		<ENEMY2_MAGIC2>plant_magic1.mp3</ENEMY2_MAGIC2>
+		<ENEMY3_MAGIC1>yetti_magic2.mp3</ENEMY3_MAGIC1>
+		<ENEMY3_MAGIC2>yetti_magic1.mp3</ENEMY3_MAGIC2>	
+		<ENEMY4_MAGIC1>scarecrow_magic1.mp3</ENEMY4_MAGIC1>
+		<ENEMY4_MAGIC2>scarecrow_magic2.mp3</ENEMY4_MAGIC2>
+		<ENEMY5_MAGIC1>tree_magic2.mp3</ENEMY5_MAGIC1>
+		<ENEMY5_MAGIC2>tree_magic1.mp3</ENEMY5_MAGIC2>
+		<ENEMY6_MAGIC1>mosquito_magic2.mp3</ENEMY6_MAGIC1>
+		<ENEMY6_MAGIC2>mosquito_magic1.mp3</ENEMY6_MAGIC2>
+		<ENEMY7_MAGIC1>dragon_magic2.mp3</ENEMY7_MAGIC1>
+		<ENEMY7_MAGIC2>dragon_magic1.mp3</ENEMY7_MAGIC2>
+		<ENEMY8_MAGIC1>ghost_magic1.mp3</ENEMY8_MAGIC1>
+		<ENEMY8_MAGIC2>ghost_magic2.mp3</ENEMY8_MAGIC2>
+		<ENEMY9_MAGIC1>goo_magic2.mp3</ENEMY9_MAGIC1>
+		<ENEMY9_MAGIC2>goo_magic1.mp3</ENEMY9_MAGIC2>
+
+		<ENEMY10_MAGIC1>scorpion_magic1.mp3</ENEMY10_MAGIC1>
+		<ENEMY10_MAGIC2>scorpion_magic2.mp3</ENEMY10_MAGIC2>
+		<ENEMY11_MAGIC1>kukigolet_magic1.mp3</ENEMY11_MAGIC1>
+		<ENEMY11_MAGIC2>kukigolet_magic2.mp3</ENEMY11_MAGIC2>
+		<ENEMY12_MAGIC1>cactus_magic1.mp3</ENEMY12_MAGIC1>
+		<ENEMY12_MAGIC2>cactus_magic2.mp3</ENEMY12_MAGIC2>
+		<ENEMY13_MAGIC1>mummy_magic1.mp3</ENEMY13_MAGIC1>
+		<ENEMY13_MAGIC2>mummy_magic2.mp3</ENEMY13_MAGIC2>
+		<ENEMY14_MAGIC1>death_angel_magic1.mp3</ENEMY14_MAGIC1>
+		<ENEMY14_MAGIC2>death_angel_magic2.mp3</ENEMY14_MAGIC2>
+		
+		<ENEMY15_MAGIC1>crystaltrol_magic1.mp3</ENEMY15_MAGIC1>
+		<ENEMY15_MAGIC2>crystaltrol_magic2.mp3</ENEMY15_MAGIC2>
+		
+		<ENEMY16_MAGIC1>gini_magic1.mp3</ENEMY16_MAGIC1>
+		<ENEMY16_MAGIC2>gini_magic2.mp3</ENEMY16_MAGIC2>
+		<ENEMY17_MAGIC1>vampbat_magic1.mp3</ENEMY17_MAGIC1>
+		<ENEMY17_MAGIC2>vampbat_magic2.mp3</ENEMY17_MAGIC2>
+		<ENEMY18_MAGIC1>bigfoot_magic1.mp3</ENEMY18_MAGIC1>
+		<ENEMY18_MAGIC2>bigfoot_magic2.mp3</ENEMY18_MAGIC2>
+		<ENEMY19_MAGIC1>cyclop_magic1.mp3</ENEMY19_MAGIC1>
+		<ENEMY19_MAGIC2>cyclop_magic2.mp3</ENEMY19_MAGIC2>
+		<ENEMY20_MAGIC1>bob_magic2.mp3</ENEMY20_MAGIC1>
+		<ENEMY20_MAGIC2>bob_magic1.mp3</ENEMY20_MAGIC2>		
+		
+		
+		<BATTLE_LOSE>battle_lose.mp3</BATTLE_LOSE>
+		<BATTLE_WIN>battle_win.mp3</BATTLE_WIN>
+	</gameSounds>
+	<dungeonMusic>
+		<DUNGEON05_MUSIC>Maze_music5 (forest) amb.mp3</DUNGEON05_MUSIC>
+		<DUNGEON01_MUSIC>maze_music 1 (mountain).mp3</DUNGEON01_MUSIC>
+		<DUNGEON02_MUSIC>maze_music2 (desert) amb.mp3</DUNGEON02_MUSIC>
+		<DUNGEON03_MUSIC>maze_music3 (swamp).mp3</DUNGEON03_MUSIC>
+		<DUNGEON04_MUSIC>Maze_music4 (lake) amb.mp3</DUNGEON04_MUSIC>
+			
+		<FIGHT01_MUSIC>batlle_music1 (forest).mp3</FIGHT01_MUSIC>
+		<FIGHT02_MUSIC>batlle_music2 (swamp).mp3</FIGHT02_MUSIC>
+		<FIGHT03_MUSIC>batlle_music3 (Mountain).mp3</FIGHT03_MUSIC>
+		<FIGHT04_MUSIC>batlle_music4 (lake).mp3</FIGHT04_MUSIC>
+		<FIGHT05_MUSIC>batlle_music5 (desert).mp3</FIGHT05_MUSIC>
+
+	</dungeonMusic>
+</sounds>
