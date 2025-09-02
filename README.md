@@ -14,7 +14,7 @@
 4. הפעילו את Bamba Magic Kingdom.exe ותתחילו לשחק!
 
 ## 📸 צילומי מסך
-![במבה בממלכה הקסומה](https://i.ibb.co/wNbvxdWw/screenshots.png)
+![במבה בממלכה הקסומה](https://us-east-1.tixte.net/uploads/milki.tixte.co/screenshot.png)
 
 ## ©️ קרדיטים
 [היכנסו לעמוד הקרדיטים המלא](https://ilayezra.github.io/magicking/credits/)
