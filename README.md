@@ -23,4 +23,4 @@
 
 
 ## 📧 יצירת קשר
-אם נתקלתם בבעיה אתם מוזמנים לפתוח **[Issue](https://github.com/ilayezra/Bamba-Magic-Kingdom/issues)** או לפנות אליי ב**[דיסקורד](https://discord.com/users/532594707692519425)**
+אם נתקלתם בבעיה אתם מוזמנים לפתוח **[Issue](https://github.com/ilayezra/Bamba-Magic-Kingdom/issues)** או לפנות אליי ב[דיסקורד](https://discord.com/users/532594707692519425)
